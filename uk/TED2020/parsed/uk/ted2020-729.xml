@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<text>
+  <s id="1">
+    <w upos="PUNCT" misc="SpaceAfter=No" head="1.2" xpos="PUNCT" lemma="(" id="1.1" deprel="punct">(</w>
+    <w lemma="музика" xpos="NOUN" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing" id="1.2" deprel="root" upos="NOUN" misc="SpaceAfter=No" head="0">Музика</w>
+    <w id="1.3" lemma=")" xpos="PUNCT" deprel="punct" head="1.2" upos="PUNCT">)</w>
+    <w misc="SpaceAfter=No" upos="PUNCT" head="1.5" lemma="(" xpos="PUNCT" id="1.4" deprel="punct">(</w>
+    <w head="1.2" upos="NOUN" misc="SpaceAfter=No" deprel="appos" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" id="1.5" lemma="оплески" xpos="NOUN">Оплески</w>
+    <w head="1.5" upos="PUNCT" deprel="punct" id="1.6" xpos="PUNCT" lemma=")">)</w>
+    <w lemma="(" xpos="PUNCT" id="1.7" deprel="punct" upos="PUNCT" misc="SpaceAfter=No" head="1.8">(</w>
+    <w xpos="NOUN" lemma="музика" id="1.8" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing" deprel="appos" upos="NOUN" misc="SpaceAfter=No" head="1.2">Музика</w>
+    <w deprel="punct" lemma=")" xpos="PUNCT" id="1.9" upos="PUNCT" head="1.8">)</w>
+    <w deprel="punct" id="1.10" lemma="(" xpos="PUNCT" head="1.11" misc="SpaceAfter=No" upos="PUNCT">(</w>
+    <w deprel="appos" id="1.11" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing" xpos="NOUN" lemma="музика" head="1.2" misc="SpaceAfter=No" upos="NOUN">Музика</w>
+    <w upos="PUNCT" head="1.11" lemma=")" xpos="PUNCT" id="1.12" deprel="punct">)</w>
+    <w deprel="punct" lemma="(" xpos="PUNCT" id="1.13" misc="SpaceAfter=No" upos="PUNCT" head="1.14">(</w>
+    <w head="1.2" misc="SpaceAfter=No" upos="NOUN" deprel="parataxis" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" id="1.14" lemma="оплески" xpos="NOUN">Оплески</w>
+    <w deprel="punct" lemma=")" xpos="PUNCT" id="1.15" upos="PUNCT" head="1.14">)</w>
+    <w misc="SpaceAfter=No" upos="PUNCT" head="1.17" lemma="(" xpos="PUNCT" id="1.16" deprel="punct">(</w>
+    <w deprel="appos" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing" id="1.17" lemma="музика" xpos="NOUN" head="1.14" misc="SpaceAfter=No" upos="NOUN">Музика</w>
+    <w xpos="PUNCT" lemma=")" id="1.18" deprel="punct" upos="PUNCT" head="1.17">)</w>
+    <w lemma="(" xpos="PUNCT" id="1.19" deprel="punct" misc="SpaceAfter=No" upos="PUNCT" head="1.20">(</w>
+    <w head="1.17" misc="SpaceAfter=No" upos="NOUN" deprel="appos" id="1.20" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" xpos="NOUN" lemma="оплески">Оплески</w>
+    <w deprel="punct" id="1.21" lemma=")" xpos="PUNCT" head="1.20" upos="PUNCT">)</w>
+    <w deprel="punct" id="1.22" lemma="(" xpos="PUNCT" head="1.23" misc="SpaceAfter=No" upos="PUNCT">(</w>
+    <w deprel="parataxis" id="1.23" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" xpos="NOUN" lemma="оплески" head="1.14" misc="SpaceAfter=No" upos="NOUN">Оплески</w>
+    <w upos="PUNCT" head="1.23" deprel="punct" xpos="PUNCT" lemma=")" id="1.24">)</w>
+    <w head="1.26" upos="ADJ" feats="Case=Nom|Degree=Pos|Number=Plur" id="1.25" xpos="ADJ" lemma="Герба" deprel="amod">Гербі</w>
+    <w misc="SpaceAfter=No" upos="NOUN" head="1.23" lemma="Генкок" xpos="NOUN" id="1.26" feats="Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing" deprel="nsubj">Генкок</w>
+    <w upos="PUNCT" head="1.28" lemma=":" xpos="PUNCT" id="1.27" deprel="punct">:</w>
+    <w head="1.14" upos="VERB" misc="SpaceAfter=No" id="1.28" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin" lemma="дякувати" xpos="VERB" deprel="parataxis">Дякую</w>
+    <w misc="SpaceAfter=No" upos="PUNCT" head="1.14" deprel="punct" xpos="PUNCT" lemma="." id="1.29">.</w>
+  </s>
+  <p id="p2">
+    <s id="2.1">
+      <w head="0" upos="PROPN" deprel="root" feats="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing" id="2.1.1" lemma="Маркус" xpos="PROPN">Маркус</w>
+      <w lemma="Міллер" xpos="PROPN" id="2.1.2" feats="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing" deprel="flat:name" misc="SpaceAfter=No" upos="PROPN" head="2.1.1">Міллер</w>
+      <w misc="SpaceAfter=No" upos="PUNCT" head="2.1.1" xpos="PUNCT" lemma="." id="2.1.3" deprel="punct">.</w>
+    </s>
+    <s id="2.2">
+      <w deprel="punct" xpos="PUNCT" lemma="(" id="2.2.1" upos="PUNCT" misc="SpaceAfter=No" head="2.2.2">(</w>
+      <w xpos="NOUN" lemma="оплески" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" id="2.2.2" deprel="root" upos="NOUN" misc="SpaceAfter=No" head="0">Оплески</w>
+      <w deprel="punct" id="2.2.3" lemma=")" xpos="PUNCT" head="2.2.2" upos="PUNCT">)</w>
+      <w head="2.2.5" upos="ADJ" deprel="amod" feats="Case=Nom|Degree=Pos|Number=Plur" id="2.2.4" xpos="ADJ" lemma="Гар">Гарві</w>
+      <w head="2.2.2" misc="SpaceAfter=No" upos="PROPN" deprel="nsubj" feats="Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing" id="2.2.5" xpos="PROPN" lemma="Мейсон">Мейсон</w>
+      <w deprel="punct" id="2.2.6" lemma="." xpos="PUNCT" head="2.2.2" misc="SpaceAfter=No" upos="PUNCT">.</w>
+    </s>
+    <s id="2.3">
+      <w upos="PUNCT" misc="SpaceAfter=No" head="2.3.2" deprel="punct" lemma="(" xpos="PUNCT" id="2.3.1">(</w>
+      <w feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" id="2.3.2" xpos="NOUN" lemma="оплески" deprel="parataxis" head="2.3.4" misc="SpaceAfter=No" upos="NOUN">Оплески</w>
+      <w id="2.3.3" lemma=")" xpos="PUNCT" deprel="punct" head="2.3.2" upos="PUNCT">)</w>
+      <w head="0" upos="VERB" misc="SpaceAfter=No" deprel="root" id="2.3.4" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin" xpos="VERB" lemma="дякувати">Дякую</w>
+      <w head="2.3.4" misc="SpaceAfter=No" upos="PUNCT" deprel="punct" id="2.3.5" xpos="PUNCT" lemma=".">.</w>
+    </s>
+    <s id="2.4">
+      <w id="2.4.1" feats="Degree=Pos" xpos="ADV" lemma="щиро" deprel="advmod" head="2.4.3" upos="ADV">Щиро</w>
+      <w deprel="obj" lemma="ви" xpos="PRON" id="2.4.2" feats="Animacy=Anim|Case=Dat|Number=Plur|Person=2|PronType=Prs" upos="PRON" head="2.4.3">вам</w>
+      <w deprel="root" lemma="дякувати" xpos="VERB" id="2.4.3" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin" upos="VERB" misc="SpaceAfter=No" head="0">дякую</w>
+      <w head="2.4.3" upos="PUNCT" misc="SpaceAfter=No" deprel="punct" id="2.4.4" xpos="PUNCT" lemma=".">.</w>
+    </s>
+    <s id="2.5">
+      <w id="2.5.1" lemma="(" xpos="PUNCT" deprel="punct" head="2.5.2" misc="SpaceAfter=No" upos="PUNCT">(</w>
+      <w id="2.5.2" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" lemma="оплески" xpos="NOUN" deprel="root" head="0" misc="SpaceAfter=No" upos="NOUN">Оплески</w>
+      <w head="2.5.2" upos="PUNCT" misc="SpaceAfter=No" deprel="punct" id="2.5.3" lemma=")" xpos="PUNCT">)</w>
+    </s>
+  </p>
+</text>

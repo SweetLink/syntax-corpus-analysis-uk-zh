@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<text>
+  <s id="1">
+    <w misc="SpaceAfter=No" deprel="punct" id="1.1" head="1.2" upos="PUNCT" xpos="PUNCT" lemma="(">(</w>
+    <w misc="SpaceAfter=No" deprel="root" id="1.2" upos="NOUN" head="0" xpos="NOUN" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing" lemma="музика">Музика</w>
+    <w deprel="punct" id="1.3" head="1.2" upos="PUNCT" xpos="PUNCT" lemma=")">)</w>
+    <sentBreak />
+    <w deprel="nsubj" id="1.1" head="1.2" upos="PRON" xpos="PRON" feats="Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem" lemma="це">Це</w>
+    <w deprel="root" id="1.2" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" xpos="NOUN" head="0" upos="NOUN" lemma="тест">тест</w>
+    <w deprel="case" lemma="на" head="1.4" upos="ADP" xpos="ADP" feats="Case=Acc" id="1.3">на</w>
+    <w misc="SpaceAfter=No" deprel="nmod" id="1.4" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" xpos="NOUN" upos="NOUN" head="1.2" lemma="людяність">людяність</w>
+    <w deprel="punct" id="1.5" head="1.7" upos="PUNCT" xpos="PUNCT" lemma=",">,</w>
+    <w xpos="SCONJ" upos="SCONJ" head="1.7" id="1.6" lemma="щоб" deprel="mark">щоб</w>
+    <w upos="VERB" head="1.2" feats="Aspect=Perf|VerbForm=Inf" xpos="VERB" id="1.7" lemma="переконатися" misc="SpaceAfter=No" deprel="advcl">переконатися</w>
+    <w deprel="punct" id="1.8" xpos="PUNCT" head="1.11" upos="PUNCT" lemma=",">,</w>
+    <w deprel="mark" upos="SCONJ" head="1.11" xpos="SCONJ" id="1.9" lemma="чи">чи</w>
+    <w deprel="nsubj" lemma="ви" head="1.11" upos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" id="1.10">ви</w>
+    <w misc="SpaceAfter=No" deprel="ccomp" head="1.7" upos="NOUN" xpos="NOUN" feats="Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing" id="1.11" lemma="людина">людина</w>
+    <w misc="SpaceAfter=No" deprel="punct" head="1.2" upos="PUNCT" xpos="PUNCT" id="1.12" lemma=".">.</w>
+  </s>
+  <s id="2">
+    <w lemma="прош" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin" xpos="VERB" head="0" upos="VERB" id="2.1" deprel="root">Прошу</w>
+    <w id="2.2" feats="Aspect=Perf|VerbForm=Inf" xpos="VERB" head="2.1" upos="VERB" lemma="підняти" deprel="xcomp">підняти</w>
+    <w id="2.3" head="2.2" upos="NOUN" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" lemma="рука" misc="SpaceAfter=No" deprel="obj">руку</w>
+    <w lemma="," xpos="PUNCT" head="2.9" upos="PUNCT" id="2.4" deprel="punct">,</w>
+    <w deprel="mark" id="2.5" xpos="SCONJ" head="2.9" upos="SCONJ" lemma="якщо">якщо</w>
+    <w id="2.6" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind" xpos="PRON" head="2.9" upos="PRON" lemma="щось" deprel="nsubj">щось</w>
+    <w id="2.7" feats="Case=Gen" xpos="ADP" head="2.8" upos="ADP" lemma="з" deprel="case">з</w>
+    <w upos="PRON" head="2.9" feats="Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem" xpos="PRON" id="2.8" lemma="це" deprel="obl">цього</w>
+    <w lemma="траплятися" head="2.2" upos="VERB" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="VERB" id="2.9" deprel="advcl">траплялося</w>
+    <w deprel="case" id="2.10" head="2.11" upos="ADP" xpos="ADP" feats="Case=Ins" lemma="з">з</w>
+    <w deprel="nmod" misc="SpaceAfter=No" lemma="ви" xpos="PRON" feats="Animacy=Anim|Case=Ins|Number=Plur|Person=2|PronType=Prs" head="2.9" upos="PRON" id="2.11">вами</w>
+    <w lemma="." upos="PUNCT" head="2.1" xpos="PUNCT" id="2.12" deprel="punct" misc="SpaceAfter=No">.</w>
+  </s>
+  <s id="3">
+    <w id="3.1" head="0" upos="VERB" feats="Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" lemma="домовитися" misc="SpaceAfter=No" deprel="root">Домовилися</w>
+    <w lemma="?" id="3.2" upos="PUNCT" head="3.1" xpos="PUNCT" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <p id="p4">
+    <s id="4.1">
+      <w deprel="root" misc="SpaceAfter=No" lemma="так" id="4.1.1" feats="PronType=Dem" xpos="ADV" head="0" upos="ADV">Так</w>
+      <w deprel="punct" misc="SpaceAfter=No" lemma="?" id="4.1.2" xpos="PUNCT" head="4.1.1" upos="PUNCT">?</w>
+    </s>
+    <s id="4.2">
+      <w deprel="advmod" id="4.2.1" head="4.2.2" upos="ADV" feats="PronType=Dem" xpos="ADV" lemma="тоді">Тоді</w>
+      <w feats="Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin" xpos="VERB" upos="VERB" head="0" id="4.2.2" lemma="почнути" misc="SpaceAfter=No" deprel="root">почнемо</w>
+      <w lemma="." id="4.2.3" xpos="PUNCT" upos="PUNCT" head="4.2.2" deprel="punct" misc="SpaceAfter=No">.</w>
+    </s>
+  </p>
+  <s id="5">
+    <w id="5.1" xpos="PART" head="5.4" upos="PART" lemma="чи" deprel="discourse">Чи</w>
+    <w deprel="nsubj" id="5.2" head="5.4" upos="PRON" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" lemma="ви">ви</w>
+    <w deprel="advmod" id="5.3" head="5.4" upos="ADV" xpos="ADV" feats="PronType=Ind" lemma="колись">колись</w>
+    <w upos="VERB" head="0" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" id="5.4" lemma="їсти" deprel="root">їли</w>
+    <w deprel="obj" misc="SpaceAfter=No" lemma="козюля" id="5.5" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" head="5.4" upos="NOUN">козюлю</w>
+    <w lemma="," id="5.6" xpos="PUNCT" upos="PUNCT" head="5.12" deprel="punct">,</w>
+    <w deprel="cc" lemma="і" head="5.12" upos="CCONJ" xpos="CCONJ" id="5.7">і</w>
+    <w deprel="nsubj" feats="Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem" xpos="PRON" upos="PRON" head="5.12" id="5.8" lemma="це">це</w>
+    <w deprel="cop" id="5.9" head="5.12" upos="AUX" xpos="AUX" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" lemma="бути">було</w>
+    <w deprel="advmod" id="5.10" head="5.12" upos="PART" feats="Polarity=Neg" xpos="PART" lemma="не">не</w>
+    <w deprel="case" lemma="в" feats="Case=Loc" xpos="ADP" head="5.12" upos="ADP" id="5.11">в</w>
+    <w lemma="дитинство" id="5.12" upos="NOUN" head="5.4" xpos="NOUN" feats="Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing" deprel="conj" misc="SpaceAfter=No">дитинстві</w>
+    <w lemma="?" id="5.13" upos="PUNCT" head="5.4" xpos="PUNCT" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <s id="6">
+    <w id="6.1" xpos="PUNCT" head="6.2" upos="PUNCT" lemma="(" misc="SpaceAfter=No" deprel="punct">(</w>
+    <w misc="SpaceAfter=No" deprel="root" id="6.2" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" upos="NOUN" head="0" lemma="сміх">Сміх</w>
+    <w id="6.3" xpos="SYM" head="6.2" upos="SYM" lemma=")" deprel="discourse">)</w>
+    <sentBreak />
+    <w id="6.1" xpos="DET" feats="Case=Nom|Gender=Neut|Number=Sing|PronType=Tot" head="6.2" upos="DET" lemma="весь" deprel="det">Все</w>
+    <w misc="SpaceAfter=No" deprel="root" id="6.2" upos="NOUN" head="0" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing" xpos="NOUN" lemma="гаразд">гаразд</w>
+    <w deprel="punct" lemma="," head="6.5" upos="PUNCT" xpos="PUNCT" id="6.3">,</w>
+    <w lemma="тут" feats="PronType=Dem" xpos="ADV" head="6.5" upos="ADV" id="6.4" deprel="advmod">тут</w>
+    <w deprel="parataxis" lemma="можна" id="6.5" xpos="ADV" upos="ADV" head="6.2">можна</w>
+    <w id="6.6" head="6.5" upos="VERB" feats="Aspect=Perf|VerbForm=Inf" xpos="VERB" lemma="зізнатися" misc="SpaceAfter=No" deprel="csubj">зізнатися</w>
+    <w misc="SpaceAfter=No" deprel="punct" id="6.7" upos="PUNCT" head="6.5" xpos="PUNCT" lemma=".">.</w>
+  </s>
+  <s id="7">
+    <w id="7.1" head="7.4" upos="PART" xpos="PART" lemma="чи" deprel="discourse">Чи</w>
+    <w lemma="ви" id="7.2" upos="PRON" head="7.4" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" deprel="nsubj">ви</w>
+    <w deprel="advmod" lemma="коли-небудь" feats="PronType=Ind" xpos="ADV" head="7.4" upos="ADV" id="7.3">коли-небудь</w>
+    <w upos="VERB" head="0" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" id="7.4" lemma="видавати" deprel="root">видавали</w>
+    <w lemma="невеличкий" id="7.5" upos="ADJ" head="7.7" xpos="ADJ" feats="Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing" deprel="amod">невеличкий</w>
+    <w deprel="amod" lemma="дивний" id="7.6" upos="ADJ" head="7.7" xpos="ADJ" feats="Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing">дивний</w>
+    <w lemma="звук" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" xpos="NOUN" upos="NOUN" head="7.4" id="7.7" deprel="obj" misc="SpaceAfter=No">звук</w>
+    <w deprel="punct" lemma="," id="7.8" upos="PUNCT" head="7.10" xpos="PUNCT">,</w>
+    <w deprel="advmod" lemma="коли" id="7.9" upos="ADV" head="7.10" xpos="ADV" feats="PronType=Rel">коли</w>
+    <w lemma="згадувати" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" head="7.4" upos="VERB" id="7.10" deprel="advcl">згадували</w>
+    <w upos="PRON" head="7.10" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind" xpos="PRON" id="7.11" lemma="щось" misc="SpaceAfter=No" deprel="obj">щось</w>
+    <w id="7.12" head="7.17" upos="PUNCT" xpos="PUNCT" lemma="," deprel="punct">,</w>
+    <w upos="ADP" head="7.14" xpos="ADP" feats="Case=Acc" id="7.13" lemma="за" deprel="case">за</w>
+    <w id="7.14" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel" xpos="PRON" head="7.17" upos="PRON" lemma="що" deprel="obl">що</w>
+    <w deprel="obj" lemma="ви" head="7.17" upos="PRON" xpos="PRON" feats="Animacy=Anim|Case=Dat|Number=Plur|Person=2|PronType=Prs" id="7.15">вам</w>
+    <w deprel="cop" lemma="бути" head="7.17" upos="AUX" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="AUX" id="7.16">було</w>
+    <w id="7.17" head="7.10" upos="ADV" xpos="ADV" lemma="соромно" misc="SpaceAfter=No" deprel="advmod">соромно</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma="?" xpos="PUNCT" head="7.4" upos="PUNCT" id="7.18">?</w>
+  </s>
+  <s id="8">
+    <w deprel="discourse" upos="PART" head="8.5" xpos="PART" id="8.1" lemma="чи">Чи</w>
+    <w lemma="ви" id="8.2" upos="PRON" head="8.5" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" deprel="nsubj">ви</w>
+    <w lemma="коли-небудь" head="8.5" upos="ADV" feats="PronType=Ind" xpos="ADV" id="8.3" deprel="advmod">коли-небудь</w>
+    <w deprel="advmod" lemma="навмисне" head="8.5" upos="ADV" xpos="ADV" id="8.4">навмисне</w>
+    <w deprel="root" lemma="писати" head="0" upos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" id="8.5">писали</w>
+    <w id="8.6" feats="Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord" xpos="ADJ" head="8.7" upos="ADJ" lemma="перший" deprel="amod">перше</w>
+    <w deprel="obj" lemma="слово" id="8.7" upos="NOUN" head="8.5" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing" xpos="NOUN">слово</w>
+    <w lemma="в" id="8.8" feats="Case=Loc" xpos="ADP" upos="ADP" head="8.9" deprel="case">в</w>
+    <w deprel="obl" lemma="повідомлення" id="8.9" upos="NOUN" head="8.5" feats="Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing" xpos="NOUN">повідомленні</w>
+    <w lemma="з" head="8.12" upos="ADP" feats="Case=Gen" xpos="ADP" id="8.10" deprel="case">з</w>
+    <w deprel="amod" id="8.11" head="8.12" upos="ADJ" feats="Case=Gen|Gender=Fem|Number=Sing" xpos="ADJ" lemma="маленький">маленької</w>
+    <w lemma="літера" id="8.12" upos="NOUN" head="8.9" feats="Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing" xpos="NOUN" deprel="nmod" misc="SpaceAfter=No">літери</w>
+    <w deprel="punct" id="8.13" xpos="PUNCT" head="8.15" upos="PUNCT" lemma=",">,</w>
+    <w id="8.14" head="8.15" upos="SCONJ" xpos="SCONJ" lemma="щоб" deprel="mark">щоб</w>
+    <w deprel="advcl" lemma="зробити" id="8.15" upos="VERB" head="8.5" feats="Aspect=Perf|VerbForm=Inf" xpos="VERB">зробити</w>
+    <w deprel="obj" misc="SpaceAfter=No" lemma="вигляд" head="8.15" upos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" xpos="NOUN" id="8.16">вигляд</w>
+    <w id="8.17" head="8.20" upos="PUNCT" xpos="PUNCT" lemma="," deprel="punct">,</w>
+    <w deprel="mark" xpos="SCONJ" upos="SCONJ" head="8.20" id="8.18" lemma="ніби">ніби</w>
+    <w lemma="ви" id="8.19" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" upos="PRON" head="8.20" deprel="nsubj">ви</w>
+    <w deprel="acl" xpos="ADJ" feats="Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass" upos="ADJ" head="8.16" id="8.20" lemma="засмучений">засмучені</w>
+    <w deprel="cc" id="8.21" head="8.22" upos="CCONJ" xpos="CCONJ" lemma="чи">чи</w>
+    <w deprel="conj" misc="SpaceAfter=No" lemma="розчарований" id="8.22" xpos="ADJ" feats="Aspect=Perf|Case=Nom|Number=Plur|VerbForm=Part|Voice=Pass" head="8.20" upos="ADJ">розчаровані</w>
+    <w misc="SpaceAfter=No" deprel="punct" head="8.5" upos="PUNCT" xpos="PUNCT" id="8.23" lemma="?">?</w>
+  </s>
+  <s id="9">
+    <w deprel="punct" misc="SpaceAfter=No" lemma="(" head="9.2" upos="PUNCT" xpos="PUNCT" id="9.1">(</w>
+    <w misc="SpaceAfter=No" deprel="root" id="9.2" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" upos="NOUN" head="0" lemma="сміх">Сміх</w>
+    <w upos="SYM" head="9.2" xpos="SYM" id="9.3" lemma=")" deprel="discourse">)</w>
+    <sentBreak />
+    <w id="9.1" head="0" upos="ADV" xpos="ADV" feats="Degree=Pos" lemma="добре" misc="SpaceAfter=No" deprel="root">Добре</w>
+    <w upos="PUNCT" head="9.1" xpos="PUNCT" id="9.2" lemma="." misc="SpaceAfter=No" deprel="punct">.</w>
+  </s>
+  <s id="10">
+    <w id="10.1" xpos="PART" head="10.4" upos="PART" lemma="чи" deprel="discourse">Чи</w>
+    <w id="10.2" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" head="10.4" upos="PRON" lemma="ви" deprel="nsubj">ви</w>
+    <w lemma="колись" xpos="ADV" feats="PronType=Ind" head="10.4" upos="ADV" id="10.3" deprel="advmod">колись</w>
+    <w deprel="root" lemma="закінчувати" id="10.4" upos="VERB" head="0" xpos="VERB" feats="Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin">закінчували</w>
+    <w id="10.5" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing" xpos="NOUN" head="10.4" upos="NOUN" lemma="повідомлення" deprel="obj">повідомлення</w>
+    <w misc="SpaceAfter=No" deprel="nmod" id="10.6" upos="NOUN" head="10.5" feats="Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing" xpos="NOUN" lemma="крапка">крапкою</w>
+    <w lemma="," xpos="PUNCT" head="10.9" upos="PUNCT" id="10.7" deprel="punct">,</w>
+    <w deprel="mark" lemma="щоб" xpos="SCONJ" head="10.9" upos="SCONJ" id="10.8">щоб</w>
+    <w deprel="advcl" upos="VERB" head="10.4" feats="Aspect=Perf|VerbForm=Inf" xpos="VERB" id="10.9" lemma="показати">показати</w>
+    <w deprel="det" lemma="свій" xpos="DET" feats="Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes" head="10.11" upos="DET" id="10.10">свою</w>
+    <w lemma="агресивність" id="10.11" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" xpos="NOUN" upos="NOUN" head="10.9" deprel="obj" misc="SpaceAfter=No">агресивність</w>
+    <w lemma="?" xpos="PUNCT" upos="PUNCT" head="10.4" id="10.12" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <p id="p11">
+    <s id="11.1">
+      <w id="11.1.1" xpos="ADV" feats="Degree=Pos" head="0" upos="ADV" lemma="добре" misc="SpaceAfter=No" deprel="root">Добре</w>
+      <w misc="SpaceAfter=No" deprel="punct" id="11.1.2" upos="PUNCT" head="11.1.1" xpos="PUNCT" lemma=".">.</w>
+    </s>
+    <s id="11.2">
+      <w lemma="Крапок" id="11.2.1" upos="NOUN" head="0" xpos="NOUN" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing" deprel="root" misc="SpaceAfter=No">Крапка</w>
+      <w id="11.2.2" head="11.2.1" upos="PUNCT" xpos="PUNCT" lemma="." misc="SpaceAfter=No" deprel="punct">.</w>
+    </s>
+    <s id="11.3">
+      <w lemma="чи" head="11.3.4" upos="PART" xpos="PART" id="11.3.1" deprel="discourse">Чи</w>
+      <w deprel="nsubj" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" upos="PRON" head="11.3.4" id="11.3.2" lemma="ви">ви</w>
+      <w lemma="колись" id="11.3.3" upos="ADV" head="11.3.4" feats="PronType=Ind" xpos="ADV" deprel="advmod">колись</w>
+      <w upos="VERB" head="0" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" id="11.3.4" lemma="сміятися" deprel="root">сміялися</w>
+      <w deprel="cc" upos="CCONJ" head="11.3.6" xpos="CCONJ" id="11.3.5" lemma="чи">чи</w>
+      <w misc="SpaceAfter=No" deprel="conj" head="11.3.4" upos="VERB" feats="Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" id="11.3.6" lemma="посміхатися">посміхалися</w>
+      <w xpos="PUNCT" upos="PUNCT" head="11.3.10" id="11.3.7" lemma="," deprel="punct">,</w>
+      <w deprel="advmod" lemma="коли" feats="PronType=Rel" xpos="ADV" head="11.3.10" upos="ADV" id="11.3.8">коли</w>
+      <w id="11.3.9" head="11.3.10" upos="PRON" feats="Animacy=Anim|Case=Nom|PronType=Ind" xpos="PRON" lemma="хтось" deprel="nsubj">хтось</w>
+      <w upos="VERB" head="11.3.6" feats="Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="VERB" id="11.3.10" lemma="казати" deprel="advcl">казав</w>
+      <w lemma="ви" head="11.3.10" upos="PRON" xpos="PRON" feats="Animacy=Anim|Case=Dat|Number=Plur|Person=2|PronType=Prs" id="11.3.11" deprel="iobj">вам</w>
+      <w lemma="щось" head="11.3.10" upos="PRON" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind" xpos="PRON" id="11.3.12" deprel="obj">щось</w>
+      <w upos="ADJ" head="11.3.12" feats="Case=Acc|Gender=Neut|Number=Sing" xpos="ADJ" id="11.3.13" lemma="образливий" misc="SpaceAfter=No" deprel="amod">образливе</w>
+      <w id="11.3.14" xpos="PUNCT" head="11.3.19" upos="PUNCT" lemma="," deprel="punct">,</w>
+      <w xpos="CCONJ" upos="CCONJ" head="11.3.19" id="11.3.15" lemma="а" deprel="cc">а</w>
+      <w id="11.3.16" xpos="ADV" feats="PronType=Dem" head="11.3.19" upos="ADV" lemma="потім" deprel="advmod">потім</w>
+      <w deprel="det" lemma="весь" id="11.3.17" upos="DET" head="11.3.18" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot" xpos="DET">весь</w>
+      <w deprel="obl" upos="NOUN" head="11.3.19" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" id="11.3.18" lemma="день">день</w>
+      <w id="11.3.19" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" head="11.3.4" upos="VERB" lemma="думати" deprel="conj">думали</w>
+      <w upos="ADP" head="11.3.21" feats="Case=Acc" xpos="ADP" id="11.3.20" lemma="про" deprel="case">про</w>
+      <w misc="SpaceAfter=No" deprel="obl" head="11.3.19" upos="PRON" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem" xpos="PRON" id="11.3.21" lemma="те">те</w>
+      <w deprel="punct" id="11.3.22" xpos="PUNCT" head="11.3.28" upos="PUNCT" lemma=",">,</w>
+      <w lemma="чому" id="11.3.23" xpos="ADV" feats="PronType=Rel" upos="ADV" head="11.3.28" deprel="advmod">чому</w>
+      <w id="11.3.24" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" head="11.3.28" upos="PRON" lemma="ви" deprel="nsubj">ви</w>
+      <w id="11.3.25" feats="PronType=Dem" xpos="ADV" head="11.3.28" upos="ADV" lemma="так" deprel="advmod">так</w>
+      <w deprel="case" lemma="на" head="11.3.27" upos="ADP" feats="Case=Acc" xpos="ADP" id="11.3.26">на</w>
+      <w lemma="це" id="11.3.27" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem" xpos="PRON" upos="PRON" head="11.3.28" deprel="obl">це</w>
+      <w misc="SpaceAfter=No" deprel="acl:relcl" id="11.3.28" upos="VERB" head="11.3.21" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" lemma="відреагувати">відреагували</w>
+      <w upos="PUNCT" head="11.3.28" xpos="PUNCT" id="11.3.29" lemma="?" misc="SpaceAfter=No" deprel="punct">?</w>
+    </s>
+  </p>
+  <s id="12">
+    <w misc="SpaceAfter=No" deprel="root" xpos="ADV" feats="PronType=Dem" head="0" upos="ADV" id="12.1" lemma="так">Так</w>
+    <w upos="PUNCT" head="12.1" xpos="PUNCT" id="12.2" lemma="." misc="SpaceAfter=No" deprel="punct">.</w>
+  </s>
+  <s id="13">
+    <w lemma="чи" head="13.4" upos="PART" xpos="PART" id="13.1" deprel="discourse">Чи</w>
+    <w deprel="obj" lemma="ви" head="13.4" upos="PRON" xpos="PRON" feats="Animacy=Anim|Case=Dat|Number=Plur|Person=2|PronType=Prs" id="13.2">вам</w>
+    <w upos="ADV" head="13.4" feats="PronType=Ind" xpos="ADV" id="13.3" lemma="колись" deprel="advmod">колись</w>
+    <w deprel="root" misc="SpaceAfter=No" lemma="здаватися" id="13.4" head="0" upos="VERB" xpos="VERB" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin">здавалося</w>
+    <w deprel="punct" lemma="," head="13.8" upos="PUNCT" xpos="PUNCT" id="13.5">,</w>
+    <w deprel="mark" upos="SCONJ" head="13.8" xpos="SCONJ" id="13.6" lemma="що">що</w>
+    <w deprel="nsubj" id="13.7" head="13.8" upos="PRON" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" lemma="ви">ви</w>
+    <w lemma="загубити" feats="Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" head="13.4" upos="VERB" id="13.8" deprel="ccomp">загубили</w>
+    <w lemma="квиток" id="13.9" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" xpos="NOUN" upos="NOUN" head="13.8" deprel="obj">квиток</w>
+    <w deprel="case" lemma="на" feats="Case=Acc" xpos="ADP" head="13.14" upos="ADP" id="13.10">на</w>
+    <w upos="ADV" head="13.12" xpos="ADV" feats="PronType=Dem" id="13.11" lemma="літак" deprel="advmod">літак</w>
+    <w lemma="десь" feats="PronType=Ind" xpos="ADV" head="13.14" upos="ADV" id="13.12" deprel="advmod">десь</w>
+    <w lemma="з" feats="Case=Acc" xpos="ADP" head="13.14" upos="ADP" id="13.13" deprel="case">з</w>
+    <w deprel="obl" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" upos="NOUN" head="13.8" id="13.14" lemma="тисяча">тисячу</w>
+    <w misc="SpaceAfter=No" deprel="nmod" head="13.14" upos="NOUN" xpos="NOUN" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur" id="13.15" lemma="раз">разів</w>
+    <w lemma="," xpos="PUNCT" head="13.19" upos="PUNCT" id="13.16" deprel="punct">,</w>
+    <w lemma="поки" xpos="ADV" feats="PronType=Rel" head="13.19" upos="ADV" id="13.17" deprel="advmod">поки</w>
+    <w deprel="nsubj" upos="PRON" head="13.19" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" id="13.18" lemma="ви">ви</w>
+    <w id="13.19" feats="Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" head="13.8" upos="VERB" lemma="йти" deprel="advcl">йшли</w>
+    <w feats="Case=Gen" xpos="ADP" upos="ADP" head="13.21" id="13.20" lemma="від" deprel="case">від</w>
+    <w lemma="реєстрація" feats="Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing" xpos="NOUN" head="13.19" upos="NOUN" id="13.21" deprel="obl">реєстрації</w>
+    <w lemma="до" id="13.22" feats="Case=Gen" xpos="ADP" upos="ADP" head="13.23" deprel="case">до</w>
+    <w lemma="посадок" feats="Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing" xpos="NOUN" upos="NOUN" head="13.19" id="13.23" deprel="obl" misc="SpaceAfter=No">посадки</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma="?" head="13.4" upos="PUNCT" xpos="PUNCT" id="13.24">?</w>
+  </s>
+  <s id="14">
+    <w xpos="ADV" feats="PronType=Dem" upos="ADV" head="0" id="14.1" lemma="так" misc="SpaceAfter=No" deprel="root">Так</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma="." xpos="PUNCT" head="14.1" upos="PUNCT" id="14.2">.</w>
+  </s>
+  <s id="15">
+    <w lemma="чи" xpos="PART" head="15.4" upos="PART" id="15.1" deprel="discourse">Чи</w>
+    <w deprel="nsubj" id="15.2" head="15.4" upos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" lemma="ви">ви</w>
+    <w deprel="advmod" id="15.3" head="15.4" upos="ADV" xpos="ADV" feats="PronType=Ind" lemma="колись">колись</w>
+    <w deprel="root" lemma="вбирати" id="15.4" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="0">вбирали</w>
+    <w id="15.5" feats="Animacy=Inan|Case=Nom|Number=Ptan" xpos="NOUN" head="15.4" upos="NOUN" lemma="штани" misc="SpaceAfter=No" deprel="nsubj">штани</w>
+    <w lemma="," head="15.16" upos="PUNCT" xpos="PUNCT" id="15.6" deprel="punct">,</w>
+    <w deprel="cc" xpos="CCONJ" upos="CCONJ" head="15.16" id="15.7" lemma="а">а</w>
+    <w deprel="advmod" misc="SpaceAfter=No" lemma="потім" id="15.8" xpos="ADV" feats="PronType=Dem" head="15.16" upos="ADV">потім</w>
+    <w upos="PUNCT" head="15.14" xpos="PUNCT" id="15.9" lemma="," deprel="punct">,</w>
+    <w id="15.10" head="15.14" upos="ADV" feats="PronType=Rel" xpos="ADV" lemma="коли" deprel="advmod">коли</w>
+    <w lemma="вже" id="15.11" xpos="ADV" upos="ADV" head="15.14" deprel="advmod">вже</w>
+    <w lemma="в" feats="Case=Loc" xpos="ADP" head="15.13" upos="ADP" id="15.12" deprel="case">в</w>
+    <w deprel="obl" lemma="вони" xpos="PRON" feats="Case=Loc|Number=Plur|Person=3|PronType=Prs" head="15.14" upos="PRON" id="15.13">них</w>
+    <w upos="VERB" head="15.8" xpos="VERB" feats="Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" id="15.14" lemma="походити" misc="SpaceAfter=No" deprel="advcl">походили</w>
+    <w lemma="," head="15.14" upos="PUNCT" xpos="PUNCT" id="15.15" deprel="punct">,</w>
+    <w misc="SpaceAfter=No" deprel="conj" xpos="VERB" feats="Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" head="15.4" upos="VERB" id="15.16" lemma="помічати">помічали</w>
+    <w deprel="punct" lemma="," xpos="PUNCT" head="15.23" upos="PUNCT" id="15.17">,</w>
+    <w id="15.18" xpos="SCONJ" head="15.23" upos="SCONJ" lemma="що" deprel="mark">що</w>
+    <w deprel="case" lemma="у" feats="Case=Gen" xpos="ADP" head="15.20" upos="ADP" id="15.19">у</w>
+    <w deprel="orphan" id="15.20" xpos="PRON" feats="Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs" head="15.23" upos="PRON" lemma="ви">вас</w>
+    <w deprel="case" id="15.21" head="15.22" upos="ADP" feats="Case=Loc" xpos="ADP" lemma="в">в</w>
+    <w lemma="штанин" id="15.22" upos="NOUN" head="15.23" feats="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing" xpos="NOUN" deprel="obl">штанині</w>
+    <w misc="SpaceAfter=No" deprel="ccomp" id="15.23" xpos="NOUN" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing" upos="NOUN" head="15.16" lemma="шкарпетка">шкарпетка</w>
+    <w xpos="PUNCT" upos="PUNCT" head="15.4" id="15.24" lemma="?" misc="SpaceAfter=No" deprel="punct">?</w>
+  </s>
+  <s id="16">
+    <w deprel="punct" misc="SpaceAfter=No" lemma="(" xpos="PUNCT" head="16.2" upos="PUNCT" id="16.1">(</w>
+    <w id="16.2" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" head="0" upos="NOUN" lemma="сміх" misc="SpaceAfter=No" deprel="root">Сміх</w>
+    <w deprel="discourse" upos="SYM" head="16.2" xpos="SYM" id="16.3" lemma=")">)</w>
+    <sentBreak />
+    <w deprel="root" misc="SpaceAfter=No" lemma="добре" head="0" upos="ADV" feats="Degree=Pos" xpos="ADV" id="16.1">Добре</w>
+    <w misc="SpaceAfter=No" deprel="punct" xpos="PUNCT" head="16.1" upos="PUNCT" id="16.2" lemma=".">.</w>
+  </s>
+  <s id="17">
+    <w xpos="PART" upos="PART" head="17.3" id="17.1" lemma="чи" deprel="discourse">Чи</w>
+    <w deprel="nsubj" lemma="ви" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" head="17.3" upos="PRON" id="17.2">ви</w>
+    <w xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" upos="VERB" head="0" id="17.3" lemma="намагатися" deprel="root">намагалися</w>
+    <w lemma="колись" head="17.5" upos="ADV" xpos="ADV" feats="PronType=Ind" id="17.4" deprel="advmod">колись</w>
+    <w id="17.5" head="17.3" upos="VERB" feats="Aspect=Imp|VerbForm=Inf" xpos="VERB" lemma="вгадати" deprel="xcomp">вгадати</w>
+    <w id="17.6" head="17.7" upos="DET" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind" xpos="DET" lemma="чийсь" deprel="det">чийсь</w>
+    <w deprel="obj" lemma="пароль" id="17.7" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" xpos="NOUN" upos="NOUN" head="17.5">пароль</w>
+    <w deprel="det" id="17.8" head="17.9" upos="DET" xpos="DET" feats="Case=Acc|NumType=Card|PronType=Dem" lemma="стільки">стільки</w>
+    <w lemma="раз" upos="NOUN" head="17.7" xpos="NOUN" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur" id="17.9" deprel="nmod" misc="SpaceAfter=No">разів</w>
+    <w lemma="," xpos="PUNCT" head="17.12" upos="PUNCT" id="17.10" deprel="punct">,</w>
+    <w deprel="mark" lemma="що" id="17.11" xpos="SCONJ" upos="SCONJ" head="17.12">що</w>
+    <w lemma="блокувати" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" head="17.9" upos="VERB" id="17.12" deprel="acl:relcl">блокували</w>
+    <w deprel="det" lemma="вони" id="17.13" feats="Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Uninflect=Yes" xpos="DET" upos="DET" head="17.14">їх</w>
+    <w lemma="акаунт" upos="NOUN" head="17.12" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" id="17.14" deprel="obj" misc="SpaceAfter=No">акаунт</w>
+    <w lemma="?" id="17.15" xpos="PUNCT" upos="PUNCT" head="17.3" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <s id="18">
+    <w upos="INTJ" head="0" xpos="INTJ" id="18.1" lemma="Ммм" misc="SpaceAfter=No" deprel="root">Ммм</w>
+    <w misc="SpaceAfter=No" deprel="punct" xpos="PUNCT" head="18.1" upos="PUNCT" id="18.2" lemma=".">.</w>
+  </s>
+  <s id="19">
+    <w deprel="discourse" id="19.1" head="19.7" upos="PART" xpos="PART" lemma="чи">Чи</w>
+    <w lemma="у" id="19.2" feats="Case=Gen" xpos="ADP" upos="ADP" head="19.3" deprel="case">у</w>
+    <w lemma="ви" head="19.7" upos="PRON" feats="Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs" xpos="PRON" id="19.3" deprel="orphan">вас</w>
+    <w deprel="advmod" upos="ADV" head="19.7" xpos="ADV" feats="PronType=Ind" id="19.4" lemma="колись">колись</w>
+    <w deprel="cop" xpos="AUX" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" upos="AUX" head="19.7" id="19.5" lemma="бути">було</w>
+    <w deprel="amod" lemma="нав'язливий" id="19.6" xpos="ADJ" feats="Case=Nom|Gender=Neut|Number=Sing" upos="ADJ" head="19.7">нав'язливе</w>
+    <w misc="SpaceAfter=No" deprel="root" head="0" upos="NOUN" xpos="NOUN" feats="Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing" id="19.7" lemma="відчуття">відчуття</w>
+    <w xpos="PUNCT" upos="PUNCT" head="19.13" id="19.8" lemma="," deprel="punct">,</w>
+    <w upos="SCONJ" head="19.13" xpos="SCONJ" id="19.9" lemma="що" deprel="mark">що</w>
+    <w deprel="det" lemma="один" id="19.10" upos="DET" head="19.11" xpos="DET" feats="Case=Gen|Gender=Masc|Number=Sing|PronType=Ind">одного</w>
+    <w deprel="obl" upos="NOUN" head="19.13" xpos="NOUN" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing" id="19.11" lemma="день">дня</w>
+    <w deprel="obj" lemma="ви" id="19.12" xpos="PRON" feats="Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs" upos="PRON" head="19.13">вас</w>
+    <w upos="VERB" head="19.7" feats="Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin" xpos="VERB" id="19.13" lemma="підловити" deprel="acl:relcl">підловлять</w>
+    <w lemma="на" head="19.15" upos="ADP" xpos="ADP" feats="Case=Loc" id="19.14" deprel="case">на</w>
+    <w deprel="obl" misc="SpaceAfter=No" lemma="шахрайство" feats="Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing" xpos="NOUN" head="19.13" upos="NOUN" id="19.15">шахрайстві</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma="?" head="19.7" upos="PUNCT" xpos="PUNCT" id="19.16">?</w>
+  </s>
+  <s id="20">
+    <w deprel="discourse" misc="SpaceAfter=No" lemma="так" id="20.1" feats="PronType=Dem" xpos="ADV" head="20.4" upos="ADV">Так</w>
+    <w deprel="punct" id="20.2" head="20.1" upos="PUNCT" xpos="PUNCT" lemma=",">,</w>
+    <w deprel="advmod" xpos="ADV" feats="PronType=Dem" upos="ADV" head="20.4" id="20.3" lemma="тут">тут</w>
+    <w lemma="можна" head="0" upos="ADV" xpos="ADV" id="20.4" deprel="root">можна</w>
+    <w deprel="csubj" misc="SpaceAfter=No" lemma="зізнатися" id="20.5" head="20.4" upos="VERB" xpos="VERB" feats="Aspect=Perf|VerbForm=Inf">зізнатися</w>
+    <w misc="SpaceAfter=No" deprel="punct" head="20.4" upos="PUNCT" xpos="PUNCT" id="20.6" lemma=".">.</w>
+  </s>
+  <s id="21">
+    <w xpos="PART" upos="PART" head="21.4" id="21.1" lemma="чи" deprel="discourse">Чи</w>
+    <w id="21.2" head="21.4" upos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" lemma="ви" deprel="nsubj">ви</w>
+    <w deprel="advmod" upos="ADV" head="21.4" xpos="ADV" feats="PronType=Ind" id="21.3" lemma="колись">колись</w>
+    <w upos="VERB" head="0" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" id="21.4" lemma="надіятися" misc="SpaceAfter=No" deprel="root">надіялися</w>
+    <w deprel="punct" xpos="PUNCT" upos="PUNCT" head="21.7" id="21.5" lemma=",">,</w>
+    <w deprel="mark" lemma="що" xpos="SCONJ" head="21.7" upos="SCONJ" id="21.6">що</w>
+    <w upos="VERB" head="21.4" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin" xpos="VERB" id="21.7" lemma="бути" deprel="ccomp">є</w>
+    <w deprel="obj" lemma="щось" id="21.8" upos="PRON" head="21.7" xpos="PRON" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind">щось</w>
+    <w misc="SpaceAfter=No" deprel="det" head="21.8" upos="DET" xpos="DET" feats="Case=Acc|Gender=Neut|Number=Sing|PronType=Dem" id="21.9" lemma="такий">таке</w>
+    <w deprel="punct" lemma="," head="21.16" upos="PUNCT" xpos="PUNCT" id="21.10">,</w>
+    <w id="21.11" feats="Case=Gen" xpos="ADP" head="21.12" upos="ADP" lemma="до" deprel="case">до</w>
+    <w deprel="obl" id="21.12" head="21.16" upos="PRON" xpos="PRON" feats="Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Ind" lemma="що">чого</w>
+    <w xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" upos="PRON" head="21.16" id="21.13" lemma="ви" deprel="nsubj">ви</w>
+    <w deprel="advmod" upos="ADV" head="21.16" xpos="ADV" id="21.14" lemma="ще">ще</w>
+    <w deprel="advmod" id="21.15" head="21.16" upos="PART" xpos="PART" feats="Polarity=Neg" lemma="не">не</w>
+    <w lemma="додуматися" id="21.16" upos="VERB" head="21.7" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" deprel="conj" misc="SpaceAfter=No">додумалися</w>
+    <w upos="PUNCT" head="21.19" xpos="PUNCT" id="21.17" lemma="," deprel="punct">,</w>
+    <w id="21.18" xpos="CCONJ" head="21.19" upos="CCONJ" lemma="але" deprel="cc">але</w>
+    <w feats="Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin" xpos="VERB" upos="VERB" head="21.4" id="21.19" lemma="мати" deprel="conj">маєте</w>
+    <w deprel="case" lemma="до" head="21.23" upos="ADP" xpos="ADP" feats="Case=Gen" id="21.20">до</w>
+    <w lemma="це" xpos="DET" feats="Case=Gen|Gender=Masc|Number=Sing|PronType=Dem" head="21.23" upos="DET" id="21.21" deprel="det">цього</w>
+    <w deprel="amod" id="21.22" xpos="ADJ" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" head="21.23" upos="ADJ" lemma="природний">природній</w>
+    <w lemma="хист" id="21.23" upos="NOUN" head="21.19" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" deprel="obl" misc="SpaceAfter=No">хист</w>
+    <w misc="SpaceAfter=No" deprel="punct" head="21.4" upos="PUNCT" xpos="PUNCT" id="21.24" lemma="?">?</w>
+  </s>
+  <s id="22">
+    <w misc="SpaceAfter=No" deprel="root" xpos="INTJ" head="0" upos="INTJ" id="22.1" lemma="Ммм">Ммм</w>
+    <w lemma="." id="22.2" upos="PUNCT" head="22.1" xpos="PUNCT" deprel="punct" misc="SpaceAfter=No">.</w>
+  </s>
+  <s id="23">
+    <w deprel="discourse" upos="PART" head="23.4" xpos="PART" id="23.1" lemma="чи">Чи</w>
+    <w deprel="nsubj" upos="PRON" head="23.4" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" id="23.2" lemma="ви">ви</w>
+    <w deprel="advmod" lemma="колись" id="23.3" upos="ADV" head="23.4" xpos="ADV" feats="PronType=Ind">колись</w>
+    <w deprel="root" lemma="ламати" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" head="0" upos="VERB" id="23.4">ламали</w>
+    <w lemma="щось" id="23.5" upos="PRON" head="23.4" xpos="PRON" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind" deprel="obj">щось</w>
+    <w deprel="case" lemma="в" xpos="ADP" feats="Case=Loc" head="23.8" upos="ADP" id="23.6">в</w>
+    <w deprel="amod" lemma="реальний" id="23.7" xpos="ADJ" feats="Case=Loc|Gender=Neut|Number=Sing" upos="ADJ" head="23.8">реальному</w>
+    <w lemma="життя" xpos="NOUN" feats="Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing" head="23.4" upos="NOUN" id="23.8" deprel="obl">житті</w>
+    <w id="23.9" xpos="CCONJ" head="23.10" upos="CCONJ" lemma="і" deprel="cc">і</w>
+    <w id="23.10" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" head="23.4" upos="VERB" lemma="починати" deprel="conj">починали</w>
+    <w deprel="xcomp" id="23.11" xpos="VERB" feats="Aspect=Imp|VerbForm=Inf" head="23.10" upos="VERB" lemma="шукати">шукати</w>
+    <w lemma="кнопка" id="23.12" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" xpos="NOUN" upos="NOUN" head="23.11" deprel="obj">кнопку</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma="&quot;" head="23.14" upos="PUNCT" xpos="PUNCT" feats="PunctType=Quot" id="23.13">"</w>
+    <w misc="SpaceAfter=No" deprel="flat:title" id="23.14" upos="VERB" head="23.11" xpos="VERB" feats="Aspect=Perf|VerbForm=Inf" lemma="відмінити">відмінити</w>
+    <w deprel="punct" lemma="&quot;" id="23.15" feats="PunctType=Quot" xpos="PUNCT" upos="PUNCT" head="23.14">"</w>
+    <w lemma="в" id="23.16" xpos="ADP" feats="Case=Loc" upos="ADP" head="23.18" deprel="case">в</w>
+    <w upos="ADJ" head="23.18" xpos="ADJ" feats="Case=Loc|Gender=Neut|Number=Sing" id="23.17" lemma="реальний" deprel="amod">реальному</w>
+    <w id="23.18" feats="Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing" xpos="NOUN" head="23.10" upos="NOUN" lemma="життя" misc="SpaceAfter=No" deprel="obl">житті</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma="?" id="23.19" head="23.4" upos="PUNCT" xpos="PUNCT">?</w>
+  </s>
+  <s id="24">
+    <w xpos="PART" upos="PART" head="24.4" id="24.1" lemma="чи" deprel="discourse">Чи</w>
+    <w deprel="nsubj" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" upos="PRON" head="24.4" id="24.2" lemma="ви">ви</w>
+    <w deprel="advmod" lemma="колись" id="24.3" upos="ADV" head="24.4" xpos="ADV" feats="PronType=Ind">колись</w>
+    <w deprel="root" lemma="губити" id="24.4" upos="VERB" head="0" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin">губили</w>
+    <w id="24.5" head="24.6" upos="DET" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes" xpos="DET" lemma="свій" deprel="det">свій</w>
+    <w lemma="бейджик" id="24.6" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" upos="NOUN" head="24.4" deprel="obj">бейджик</w>
+    <w lemma="ТЕД" upos="PROPN" head="24.6" feats="Abbr=Yes|Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Uninflect=Yes" xpos="PROPN" id="24.7" deprel="nmod" misc="SpaceAfter=No">ТЕД</w>
+    <w id="24.8" xpos="PUNCT" head="24.12" upos="PUNCT" lemma="," deprel="punct">,</w>
+    <w xpos="CCONJ" upos="CCONJ" head="24.12" id="24.9" lemma="а" deprel="cc">а</w>
+    <w deprel="advmod" feats="PronType=Dem" xpos="ADV" upos="ADV" head="24.12" id="24.10" lemma="тоді">тоді</w>
+    <w id="24.11" head="24.12" upos="ADV" xpos="ADV" lemma="одразу" deprel="advmod">одразу</w>
+    <w lemma="починати" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" head="24.4" upos="VERB" id="24.12" deprel="conj">починали</w>
+    <w deprel="xcomp" misc="SpaceAfter=No" lemma="уявляти" id="24.13" feats="Aspect=Imp|VerbForm=Inf" xpos="VERB" head="24.12" upos="VERB">уявляти</w>
+    <w deprel="punct" id="24.14" xpos="PUNCT" head="24.19" upos="PUNCT" lemma=",">,</w>
+    <w deprel="mark" xpos="SCONJ" upos="SCONJ" head="24.19" id="24.15" lemma="як">як</w>
+    <w lemma="би" xpos="PART" head="24.15" upos="PART" id="24.16" deprel="discourse">би</w>
+    <w id="24.17" feats="Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem" xpos="PRON" head="24.19" upos="PRON" lemma="то" deprel="nsubj">то</w>
+    <w deprel="aux" lemma="бути" id="24.18" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="AUX" upos="AUX" head="24.19">було</w>
+    <w deprel="advcl" id="24.19" head="24.13" upos="VERB" feats="Aspect=Perf|VerbForm=Inf" xpos="VERB" lemma="поїхати">поїхати</w>
+    <w id="24.20" feats="Case=Acc" xpos="ADP" head="24.22" upos="ADP" lemma="у" deprel="case">у</w>
+    <w deprel="amod" id="24.21" feats="Case=Acc|Gender=Fem|Number=Sing" xpos="ADJ" head="24.22" upos="ADJ" lemma="триденний">триденну</w>
+    <w lemma="відпустка" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" xpos="NOUN" head="24.19" upos="NOUN" id="24.22" deprel="obl">відпустку</w>
+    <w lemma="до" head="24.24" upos="ADP" feats="Case=Gen" xpos="ADP" id="24.23" deprel="case">до</w>
+    <w xpos="PROPN" feats="Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing" upos="PROPN" head="24.22" id="24.24" lemma="Ванкувер" misc="SpaceAfter=No" deprel="nmod">Ванкувера</w>
+    <w misc="SpaceAfter=No" deprel="punct" id="24.25" upos="PUNCT" head="24.4" xpos="PUNCT" lemma="?">?</w>
+  </s>
+  <s id="25">
+    <w deprel="discourse" id="25.1" head="25.4" upos="PART" xpos="PART" lemma="чи">Чи</w>
+    <w lemma="ви" id="25.2" upos="PRON" head="25.4" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" deprel="nsubj">ви</w>
+    <w deprel="advmod" id="25.3" head="25.4" upos="ADV" feats="PronType=Ind" xpos="ADV" lemma="колись">колись</w>
+    <w misc="SpaceAfter=No" deprel="root" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" head="0" upos="VERB" id="25.4" lemma="дивуватися">дивувалися</w>
+    <w id="25.5" xpos="PUNCT" head="25.7" upos="PUNCT" lemma="," deprel="punct">,</w>
+    <w lemma="як" id="25.6" xpos="SCONJ" upos="SCONJ" head="25.7" deprel="mark">як</w>
+    <w lemma="хтось" id="25.7" xpos="PRON" feats="Animacy=Anim|Case=Nom|PronType=Ind" upos="PRON" head="25.4" deprel="advcl" misc="SpaceAfter=No">хтось</w>
+    <w deprel="punct" xpos="PUNCT" upos="PUNCT" head="25.7" id="25.8" lemma=",">,</w>
+    <w deprel="obj" lemma="хто" head="25.4" upos="PRON" feats="Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel" xpos="PRON" id="25.9">кого</w>
+    <w deprel="nsubj" id="25.10" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" head="25.11" upos="PRON" lemma="ви">ви</w>
+    <w deprel="conj" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="25.4" id="25.11" lemma="вважати">вважали</w>
+    <w deprel="advmod" id="25.12" xpos="ADV" head="25.13" upos="ADV" lemma="зовсім">зовсім</w>
+    <w lemma="звичайний" upos="ADJ" head="25.11" xpos="ADJ" feats="Case=Ins|Degree=Pos|Gender=Masc|Number=Sing" id="25.13" deprel="xcomp:sp" misc="SpaceAfter=No">звичайним</w>
+    <w lemma="," id="25.14" xpos="PUNCT" upos="PUNCT" head="25.16" deprel="punct">,</w>
+    <w deprel="advmod" lemma="раптом" head="25.16" upos="ADV" xpos="ADV" id="25.15">раптом</w>
+    <w deprel="conj" lemma="ставати" head="25.4" upos="VERB" feats="Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="VERB" id="25.16">ставав</w>
+    <w deprel="det" id="25.17" head="25.19" upos="DET" xpos="DET" feats="Case=Ins|Gender=Fem|Number=Sing|PronType=Dem" lemma="такий">такою</w>
+    <w deprel="amod" id="25.18" feats="Case=Ins|Degree=Pos|Gender=Fem|Number=Sing" xpos="ADJ" head="25.19" upos="ADJ" lemma="чудовий">чудовою</w>
+    <w id="25.19" feats="Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing" xpos="NOUN" head="25.16" upos="NOUN" lemma="людина" misc="SpaceAfter=No" deprel="obl">людиною</w>
+    <w lemma="?" upos="PUNCT" head="25.4" xpos="PUNCT" id="25.20" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <s id="26">
+    <w deprel="discourse" lemma="чи" id="26.1" xpos="PART" upos="PART" head="26.4">Чи</w>
+    <w lemma="ви" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" head="26.4" upos="PRON" id="26.2" deprel="nsubj">ви</w>
+    <w feats="PronType=Ind" xpos="ADV" upos="ADV" head="26.4" id="26.3" lemma="колись" deprel="advmod">колись</w>
+    <w upos="VERB" head="0" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" id="26.4" lemma="дивитися" deprel="root">дивилися</w>
+    <w deprel="case" id="26.5" xpos="ADP" feats="Case=Acc" head="26.7" upos="ADP" lemma="на">на</w>
+    <w id="26.6" head="26.7" upos="DET" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes" xpos="DET" lemma="свій" deprel="det">свій</w>
+    <w lemma="телефон" id="26.7" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" upos="NOUN" head="26.4" deprel="obl">телефон</w>
+    <w deprel="cc" xpos="CCONJ" upos="CCONJ" head="26.9" id="26.8" lemma="і">і</w>
+    <w lemma="посміхатися" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="26.4" id="26.9" deprel="conj" misc="SpaceAfter=No">посміхалися</w>
+    <w deprel="punct" lemma="," xpos="PUNCT" head="26.12" upos="PUNCT" id="26.10">,</w>
+    <w deprel="mark" lemma="мов" id="26.11" xpos="SCONJ" upos="SCONJ" head="26.12">мов</w>
+    <w deprel="advcl" misc="SpaceAfter=No" lemma="ідіот" id="26.12" xpos="NOUN" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing" head="26.9" upos="NOUN">ідіот</w>
+    <w deprel="punct" lemma="," xpos="PUNCT" head="26.12" upos="PUNCT" id="26.13">,</w>
+    <w deprel="advmod" lemma="поки" id="26.14" feats="PronType=Rel" xpos="ADV" upos="ADV" head="26.15">поки</w>
+    <w id="26.15" head="26.9" upos="VERB" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" lemma="переписуватися" deprel="advcl">переписувались</w>
+    <w deprel="case" xpos="ADP" feats="Case=Ins" upos="ADP" head="26.17" id="26.16" lemma="з">з</w>
+    <w lemma="кийсь" feats="Case=Ins|Gender=Neut|Number=Sing|PronType=Ind" xpos="DET" upos="DET" head="26.15" id="26.17" deprel="obl" misc="SpaceAfter=No">кимось</w>
+    <w lemma="?" xpos="PUNCT" upos="PUNCT" head="26.4" id="26.18" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <s id="27">
+    <w lemma="і" id="27.1" xpos="CCONJ" upos="CCONJ" head="27.6" deprel="cc">І</w>
+    <w lemma="чи" id="27.2" xpos="PART" upos="PART" head="27.6" deprel="discourse">чи</w>
+    <w deprel="case" xpos="ADP" feats="Case=Gen" upos="ADP" head="27.4" id="27.3" lemma="після">після</w>
+    <w deprel="obl" lemma="це" id="27.4" upos="PRON" head="27.6" xpos="PRON" feats="Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem">цього</w>
+    <w deprel="nsubj" lemma="ви" head="27.6" upos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" id="27.5">ви</w>
+    <w deprel="advcl" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="27.12" id="27.6" lemma="писати">писали</w>
+    <w deprel="det" id="27.7" xpos="DET" feats="Case=Dat|Gender=Fem|Number=Sing|PronType=Dem" head="27.8" upos="DET" lemma="той">тій</w>
+    <w deprel="iobj" xpos="NOUN" feats="Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing" upos="NOUN" head="27.6" id="27.8" lemma="людина">людині</w>
+    <w deprel="obj" id="27.9" head="27.6" upos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" xpos="NOUN" lemma="фраза">фразу</w>
+    <w lemma="&quot;" upos="PUNCT" head="27.6" xpos="PUNCT" feats="PunctType=Quot" id="27.10" deprel="punct" misc="SpaceAfter=No">"</w>
+    <w deprel="nsubj" upos="PRON" head="27.12" feats="Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs" xpos="PRON" id="27.11" lemma="я">я</w>
+    <w deprel="root" lemma="дивитися" id="27.12" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin" upos="VERB" head="0">дивлюся</w>
+    <w deprel="case" lemma="на" id="27.13" upos="ADP" head="27.14" feats="Case=Acc" xpos="ADP">на</w>
+    <w feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" xpos="NOUN" upos="NOUN" head="27.12" id="27.14" lemma="телефон" deprel="obl">телефон</w>
+    <w deprel="cc" lemma="і" id="27.15" upos="CCONJ" head="27.16" xpos="CCONJ">і</w>
+    <w deprel="conj" misc="SpaceAfter=No" lemma="посміхатися" id="27.16" head="27.12" upos="VERB" xpos="VERB" feats="Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin">посміхаюся</w>
+    <w lemma="," id="27.17" upos="PUNCT" head="27.19" xpos="PUNCT" deprel="punct">,</w>
+    <w deprel="mark" lemma="мов" head="27.19" upos="SCONJ" xpos="SCONJ" id="27.18">мов</w>
+    <w lemma="ідіот" id="27.19" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing" xpos="NOUN" upos="NOUN" head="27.16" deprel="advcl" misc="SpaceAfter=No">ідіот</w>
+    <w id="27.20" feats="PunctType=Quot" xpos="PUNCT" head="27.19" upos="PUNCT" lemma="&quot;" misc="SpaceAfter=No" deprel="punct">"</w>
+    <w id="27.21" xpos="PUNCT" head="27.12" upos="PUNCT" lemma="?" misc="SpaceAfter=No" deprel="punct">?</w>
+  </s>
+  <s id="28">
+    <w lemma="чи" id="28.1" upos="PART" head="28.4" xpos="PART" deprel="discourse">Чи</w>
+    <w deprel="nsubj" id="28.2" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" head="28.4" upos="PRON" lemma="ви">ви</w>
+    <w deprel="advmod" xpos="ADV" feats="PronType=Ind" upos="ADV" head="28.4" id="28.3" lemma="коли-небудь">коли-небудь</w>
+    <w deprel="root" id="28.4" head="0" upos="VERB" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" lemma="піддаватися">піддавалися</w>
+    <w lemma="спокуса" id="28.5" upos="ADV" head="28.6" xpos="ADV" feats="PronType=Dem" deprel="advmod">спокусі</w>
+    <w deprel="xcomp" xpos="VERB" feats="Aspect=Perf|VerbForm=Inf" upos="VERB" head="28.4" id="28.6" lemma="полазити">полазити</w>
+    <w deprel="case" lemma="в" xpos="ADP" feats="Case=Loc" head="28.9" upos="ADP" id="28.7">в</w>
+    <w deprel="amod" id="28.8" head="28.9" upos="ADJ" xpos="ADJ" feats="Case=Loc|Gender=Masc|Number=Sing" lemma="чужий">чужому</w>
+    <w misc="SpaceAfter=No" deprel="obl" id="28.9" upos="NOUN" head="28.6" xpos="NOUN" feats="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing" lemma="телефон">телефоні</w>
+    <w id="28.10" head="28.4" upos="PUNCT" xpos="PUNCT" lemma="?" misc="SpaceAfter=No" deprel="punct">?</w>
+  </s>
+  <s id="29">
+    <w lemma="чи" head="29.4" upos="PART" xpos="PART" id="29.1" deprel="discourse">Чи</w>
+    <w xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" upos="PRON" head="29.4" id="29.2" lemma="ви" deprel="nsubj">ви</w>
+    <w id="29.3" head="29.4" upos="ADV" xpos="ADV" feats="PronType=Ind" lemma="колись" deprel="advmod">колись</w>
+    <w deprel="root" lemma="розмовляти" head="0" upos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" id="29.4">розмовляли</w>
+    <w lemma="сам" id="29.5" feats="Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes" xpos="DET" upos="DET" head="29.4" deprel="obl">самі</w>
+    <w lemma="з" head="29.7" upos="ADP" xpos="ADP" feats="Case=Ins" id="29.6" deprel="case">з</w>
+    <w upos="PRON" head="29.5" feats="Case=Ins|PronType=Prs|Reflex=Yes" xpos="PRON" id="29.7" lemma="себе" misc="SpaceAfter=No" deprel="flat:abs">собою</w>
+    <w deprel="punct" id="29.8" xpos="PUNCT" head="29.12" upos="PUNCT" lemma=",">,</w>
+    <w id="29.9" head="29.12" upos="CCONJ" xpos="CCONJ" lemma="а" deprel="cc">а</w>
+    <w lemma="потім" id="29.10" upos="ADV" head="29.12" xpos="ADV" feats="PronType=Dem" deprel="advmod">потім</w>
+    <w id="29.11" head="29.12" upos="ADV" xpos="ADV" lemma="раптом" deprel="advmod">раптом</w>
+    <w upos="VERB" head="29.4" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" id="29.12" lemma="усвідомлювати" misc="SpaceAfter=No" deprel="conj">усвідомлювали</w>
+    <w deprel="punct" lemma="," id="29.13" upos="PUNCT" head="29.19" xpos="PUNCT">,</w>
+    <w deprel="mark" id="29.14" xpos="SCONJ" head="29.19" upos="SCONJ" lemma="що">що</w>
+    <w lemma="ви" id="29.15" upos="PRON" head="29.19" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" deprel="nsubj">ви</w>
+    <w id="29.16" head="29.19" upos="ADV" xpos="ADV" lemma="паршиво" deprel="advmod">паршиво</w>
+    <w deprel="case" lemma="до" id="29.17" xpos="ADP" feats="Case=Gen" upos="ADP" head="29.18">до</w>
+    <w lemma="себе" id="29.18" xpos="PRON" feats="Case=Gen|PronType=Prs|Reflex=Yes" upos="PRON" head="29.16" deprel="obl">себе</w>
+    <w upos="NOUN" head="29.12" feats="Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing" xpos="NOUN" id="29.19" lemma="ставитися" misc="SpaceAfter=No" deprel="ccomp">ставитеся</w>
+    <w id="29.20" xpos="PUNCT" head="29.4" upos="PUNCT" lemma="?" misc="SpaceAfter=No" deprel="punct">?</w>
+  </s>
+  <s id="30">
+    <w upos="PUNCT" head="30.2" xpos="PUNCT" id="30.1" lemma="(" misc="SpaceAfter=No" deprel="punct">(</w>
+    <w misc="SpaceAfter=No" deprel="root" head="0" upos="NOUN" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" id="30.2" lemma="сміх">Сміх</w>
+    <w deprel="discourse" lemma=")" id="30.3" xpos="SYM" upos="SYM" head="30.2">)</w>
+    <sentBreak />
+    <w deprel="discourse" lemma="чи" head="30.5" upos="PART" xpos="PART" id="30.1">Чи</w>
+    <w lemma="у" id="30.2" upos="ADP" head="30.3" xpos="ADP" feats="Case=Gen" deprel="case">у</w>
+    <w lemma="ви" id="30.3" upos="PRON" head="30.5" feats="Animacy=Anim|Case=Gen|Number=Plur|Person=2|PronType=Prs" xpos="PRON" deprel="obl">вас</w>
+    <w xpos="ADV" feats="PronType=Ind" upos="ADV" head="30.5" id="30.4" lemma="колись" deprel="advmod">колись</w>
+    <w deprel="root" feats="Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="0" id="30.5" lemma="розряджатися">розряджався</w>
+    <w upos="NOUN" head="30.5" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" id="30.6" lemma="телефон" deprel="obj">телефон</w>
+    <w deprel="case" id="30.7" feats="Case=Gen" xpos="ADP" head="30.8" upos="ADP" lemma="посеред">посеред</w>
+    <w misc="SpaceAfter=No" deprel="nmod" id="30.8" feats="Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing" xpos="NOUN" upos="NOUN" head="30.6" lemma="сварка">сварки</w>
+    <w lemma="," xpos="PUNCT" head="30.11" upos="PUNCT" id="30.9" deprel="punct">,</w>
+    <w deprel="cc" upos="CCONJ" head="30.11" xpos="CCONJ" id="30.10" lemma="і">і</w>
+    <w misc="SpaceAfter=No" deprel="conj" head="30.5" upos="VERB" xpos="VERB" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" id="30.11" lemma="здаватися">здавалося</w>
+    <w lemma="," id="30.12" upos="PUNCT" head="30.16" xpos="PUNCT" deprel="punct">,</w>
+    <w id="30.13" xpos="SCONJ" head="30.16" upos="SCONJ" lemma="ніби" deprel="mark">ніби</w>
+    <w lemma="це" xpos="PRON" feats="Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem" head="30.16" upos="PRON" id="30.14" deprel="nsubj">це</w>
+    <w deprel="discourse" upos="PART" head="30.16" xpos="PART" feats="PronType=Prs" id="30.15" lemma="телефон">телефон</w>
+    <w upos="VERB" head="30.11" xpos="VERB" feats="Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" id="30.16" lemma="кидати" deprel="ccomp">кидав</w>
+    <w id="30.17" feats="Animacy=Anim|Case=Acc|Number=Plur|Person=2|PronType=Prs" xpos="PRON" head="30.16" upos="PRON" lemma="ви" deprel="iobj">вас</w>
+    <w misc="SpaceAfter=No" deprel="obj" head="30.16" upos="NUM" feats="Case=Acc|NumType=Card" xpos="NUM" id="30.18" lemma="обоє">обох</w>
+    <w lemma="?" upos="PUNCT" head="30.5" xpos="PUNCT" id="30.19" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <s id="31">
+    <w deprel="discourse" upos="PART" head="31.4" xpos="PART" id="31.1" lemma="чи">Чи</w>
+    <w deprel="nsubj" upos="PRON" head="31.4" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" id="31.2" lemma="ви">ви</w>
+    <w id="31.3" head="31.4" upos="ADV" xpos="ADV" feats="PronType=Ind" lemma="колись" deprel="advmod">колись</w>
+    <w feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="0" id="31.4" lemma="думати" misc="SpaceAfter=No" deprel="root">думали</w>
+    <w id="31.5" head="31.7" upos="PUNCT" xpos="PUNCT" lemma="," deprel="punct">,</w>
+    <w deprel="mark" id="31.6" xpos="SCONJ" head="31.7" upos="SCONJ" lemma="що">що</w>
+    <w deprel="ccomp" id="31.7" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin" xpos="VERB" head="31.4" upos="VERB" lemma="немати">нема</w>
+    <w lemma="сенс" head="31.7" upos="NOUN" feats="Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing" xpos="NOUN" id="31.8" deprel="obj">сенсу</w>
+    <w deprel="acl" xpos="VERB" feats="Aspect=Imp|VerbForm=Inf" upos="VERB" head="31.8" id="31.9" lemma="розв’язувати">розв'язувати</w>
+    <w id="31.10" xpos="DET" feats="Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs" head="31.11" upos="DET" lemma="ваш" deprel="det">вашу</w>
+    <w upos="NOUN" head="31.9" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" id="31.11" lemma="суперечка" misc="SpaceAfter=No" deprel="obj">суперечку</w>
+    <w deprel="punct" lemma="," id="31.12" upos="PUNCT" head="31.7" xpos="PUNCT">,</w>
+    <w id="31.13" head="31.14" upos="SCONJ" xpos="SCONJ" lemma="бо" deprel="mark">бо</w>
+    <w deprel="advcl" id="31.14" head="31.23" upos="VERB" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="VERB" lemma="могти">могло</w>
+    <w deprel="aux" lemma="би" id="31.15" xpos="AUX" feats="Mood=Cnd" upos="AUX" head="31.14">би</w>
+    <w deprel="cop" lemma="бути" xpos="AUX" feats="Aspect=Imp|VerbForm=Inf" head="31.18" upos="AUX" id="31.16">бути</w>
+    <w lemma="й" xpos="PART" head="31.18" upos="PART" id="31.17" deprel="discourse">й</w>
+    <w deprel="advmod" misc="SpaceAfter=No" lemma="легше" feats="Degree=Cmp" xpos="ADV" head="31.14" upos="ADV" id="31.18">легше</w>
+    <w deprel="punct" lemma="," id="31.19" upos="PUNCT" head="31.18" xpos="PUNCT">,</w>
+    <w lemma="і" xpos="CCONJ" head="31.22" upos="CCONJ" id="31.20" deprel="cc">і</w>
+    <w xpos="ADV" upos="ADV" head="31.22" id="31.21" lemma="взагалі" deprel="advmod">взагалі</w>
+    <w deprel="nsubj" upos="NOUN" head="31.23" xpos="NOUN" feats="Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur" id="31.22" lemma="стосунок">стосунки</w>
+    <w deprel="parataxis" lemma="мати" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin" head="31.4" upos="VERB" id="31.23">мають</w>
+    <w feats="Aspect=Imp|VerbForm=Inf" xpos="VERB" upos="VERB" head="31.23" id="31.24" lemma="розвиватися" deprel="xcomp">розвиватися</w>
+    <w id="31.25" head="31.26" upos="DET" xpos="DET" feats="Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes" lemma="сам" deprel="det">самі</w>
+    <w lemma="себе" id="31.26" xpos="PRON" feats="Case=Ins|PronType=Prs|Reflex=Yes" upos="PRON" head="31.24" deprel="obl" misc="SpaceAfter=No">собою</w>
+    <w lemma="?" id="31.27" upos="PUNCT" head="31.23" xpos="PUNCT" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <s id="32">
+    <w deprel="discourse" lemma="чи" id="32.1" upos="PART" head="32.4" xpos="PART">Чи</w>
+    <w deprel="nsubj" lemma="ви" xpos="PRON" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" head="32.4" upos="PRON" id="32.2">ви</w>
+    <w deprel="advmod" feats="PronType=Ind" xpos="ADV" upos="ADV" head="32.4" id="32.3" lemma="колись">колись</w>
+    <w misc="SpaceAfter=No" deprel="root" head="0" upos="VERB" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" id="32.4" lemma="усвідомлювати">усвідомлювали</w>
+    <w xpos="PUNCT" upos="PUNCT" head="32.14" id="32.5" lemma="," deprel="punct">,</w>
+    <w lemma="що" head="32.14" upos="SCONJ" xpos="SCONJ" id="32.6" deprel="mark">що</w>
+    <w deprel="case" id="32.7" head="32.9" upos="ADP" xpos="ADP" feats="Case=Loc" lemma="по">по</w>
+    <w id="32.8" xpos="ADJ" feats="Case=Loc|Degree=Pos|Gender=Masc|Number=Sing" head="32.9" upos="ADJ" lemma="великий" deprel="amod">великому</w>
+    <w deprel="obl" misc="SpaceAfter=No" lemma="рахунок" id="32.9" head="32.14" upos="NOUN" feats="Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing" xpos="NOUN">рахунку</w>
+    <w deprel="punct" upos="PUNCT" head="32.13" xpos="PUNCT" id="32.10" lemma=",">,</w>
+    <w deprel="advmod" id="32.11" head="32.12" upos="ADV" feats="Degree=Pos" xpos="ADV" lemma="дуже">дуже</w>
+    <w deprel="advmod" lemma="мало" id="32.12" upos="ADV" head="32.13" xpos="ADV" feats="Degree=Pos">мало</w>
+    <w lemma="річ" feats="Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur" xpos="NOUN" head="32.9" upos="NOUN" id="32.13" deprel="appos">речей</w>
+    <w deprel="ccomp" lemma="траплятися" id="32.14" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin" upos="VERB" head="32.4">трапляються</w>
+    <w lemma="сам" id="32.15" feats="Case=Nom|Number=Plur|PronType=Prs|Reflex=Yes" xpos="DET" upos="DET" head="32.16" deprel="det">самі</w>
+    <w deprel="obl" misc="SpaceAfter=No" lemma="себе" id="32.16" head="32.14" upos="PRON" xpos="PRON" feats="Case=Ins|PronType=Prs|Reflex=Yes">собою</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma="?" xpos="PUNCT" head="32.4" upos="PUNCT" id="32.17">?</w>
+  </s>
+  <s id="33">
+    <w lemma="чи" head="33.4" upos="PART" xpos="PART" id="33.1" deprel="discourse">Чи</w>
+    <w deprel="nsubj" lemma="ви" id="33.2" upos="PRON" head="33.4" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON">ви</w>
+    <w feats="PronType=Ind" xpos="ADV" upos="ADV" head="33.4" id="33.3" lemma="колись" deprel="advmod">колись</w>
+    <w deprel="root" lemma="прокидатися" id="33.4" upos="VERB" head="0" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB">прокидалися</w>
+    <w feats="Case=Nom|Number=Plur" xpos="ADJ" upos="ADJ" head="33.4" id="33.5" lemma="щасливий" misc="SpaceAfter=No" deprel="xcomp:sp">щасливі</w>
+    <w lemma="," id="33.6" upos="PUNCT" head="33.11" xpos="PUNCT" deprel="punct">,</w>
+    <w upos="CCONJ" head="33.11" xpos="CCONJ" id="33.7" lemma="а" deprel="cc">а</w>
+    <w deprel="advmod" lemma="потім" id="33.8" upos="ADV" head="33.11" xpos="ADV" feats="PronType=Dem">потім</w>
+    <w xpos="ADP" feats="Case=Acc" upos="ADP" head="33.10" id="33.9" lemma="на" deprel="case">на</w>
+    <w deprel="obl" id="33.10" head="33.11" upos="PRON" feats="Animacy=Anim|Case=Acc|Number=Plur|Person=2|PronType=Prs" xpos="PRON" lemma="ви">вас</w>
+    <w feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="33.4" id="33.11" lemma="нахлинати" deprel="conj">нахлинали</w>
+    <w deprel="amod" lemma="жахливий" id="33.12" upos="ADJ" head="33.13" feats="Case=Nom|Number=Plur" xpos="ADJ">жахливі</w>
+    <w id="33.13" head="33.11" upos="NOUN" xpos="NOUN" feats="Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur" lemma="спогад" misc="SpaceAfter=No" deprel="nsubj">спогади</w>
+    <w xpos="PUNCT" upos="PUNCT" head="33.16" id="33.14" lemma="," deprel="punct">,</w>
+    <w lemma="про" id="33.15" upos="ADP" head="33.16" feats="Case=Acc" xpos="ADP" deprel="case">про</w>
+    <w lemma="те" xpos="PRON" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem" upos="PRON" head="33.11" id="33.16" deprel="conj" misc="SpaceAfter=No">те</w>
+    <w deprel="punct" xpos="PUNCT" upos="PUNCT" head="33.21" id="33.17" lemma=",">,</w>
+    <w lemma="що" id="33.18" upos="SCONJ" head="33.21" xpos="SCONJ" deprel="mark">що</w>
+    <w lemma="хтось" id="33.19" feats="Animacy=Anim|Case=Nom|PronType=Ind" xpos="PRON" upos="PRON" head="33.21" deprel="nsubj">хтось</w>
+    <w lemma="ви" feats="Animacy=Anim|Case=Acc|Number=Plur|Person=2|PronType=Prs" xpos="PRON" head="33.21" upos="PRON" id="33.20" deprel="obj">вас</w>
+    <w misc="SpaceAfter=No" deprel="acl" head="33.16" upos="VERB" feats="Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="VERB" id="33.21" lemma="кинути">кинув</w>
+    <w upos="PUNCT" head="33.4" xpos="PUNCT" id="33.22" lemma="?" misc="SpaceAfter=No" deprel="punct">?</w>
+  </s>
+  <s id="34">
+    <w upos="PART" head="34.5" xpos="PART" id="34.1" lemma="чи" deprel="discourse">Чи</w>
+    <w deprel="nsubj" upos="PRON" head="34.5" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" id="34.2" lemma="ви">ви</w>
+    <w xpos="ADV" feats="PronType=Ind" upos="ADV" head="34.5" id="34.3" lemma="колись" deprel="advmod">колись</w>
+    <w deprel="advmod" lemma="не" id="34.4" upos="PART" head="34.5" feats="Polarity=Neg" xpos="PART">не</w>
+    <w deprel="root" id="34.5" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" head="0" upos="VERB" lemma="могти">могли</w>
+    <w deprel="xcomp" id="34.6" feats="Aspect=Perf|VerbForm=Inf" xpos="VERB" head="34.5" upos="VERB" lemma="уявити">уявити</w>
+    <w deprel="advmod" lemma="майбутнє" head="34.6" upos="ADV" xpos="ADV" id="34.7">майбутнє</w>
+    <w deprel="case" lemma="без" head="34.9" upos="ADP" feats="Case=Gen" xpos="ADP" id="34.8">без</w>
+    <w deprel="obl" misc="SpaceAfter=No" lemma="людина" id="34.9" xpos="NOUN" feats="Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing" head="34.6" upos="NOUN">людини</w>
+    <w id="34.10" head="34.15" upos="PUNCT" xpos="PUNCT" lemma="," deprel="punct">,</w>
+    <w deprel="obj" lemma="який" head="34.15" upos="DET" xpos="DET" feats="Case=Gen|Gender=Fem|Number=Sing|PronType=Rel" id="34.11">якої</w>
+    <w lemma="вже" id="34.12" xpos="ADV" upos="ADV" head="34.15" deprel="advmod">вже</w>
+    <w lemma="давно" xpos="ADV" feats="Degree=Pos" head="34.15" upos="ADV" id="34.13" deprel="advmod">давно</w>
+    <w lemma="не" head="34.15" upos="PART" feats="Polarity=Neg" xpos="PART" id="34.14" deprel="advmod">не</w>
+    <w lemma="бути" id="34.15" upos="VERB" head="34.9" feats="Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin" xpos="VERB" deprel="acl:relcl">було</w>
+    <w deprel="case" lemma="у" head="34.18" upos="ADP" xpos="ADP" feats="Case=Loc" id="34.16">у</w>
+    <w lemma="ваш" head="34.18" upos="DET" feats="Case=Loc|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs" xpos="DET" id="34.17" deprel="det">вашому</w>
+    <w xpos="NOUN" feats="Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing" upos="NOUN" head="34.15" id="34.18" lemma="життя" misc="SpaceAfter=No" deprel="obl">житті</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma="?" id="34.19" head="34.5" upos="PUNCT" xpos="PUNCT">?</w>
+  </s>
+  <s id="35">
+    <w deprel="discourse" lemma="чи" id="35.1" xpos="PART" upos="PART" head="35.4">Чи</w>
+    <w lemma="ви" id="35.2" upos="PRON" head="35.4" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" deprel="nsubj">ви</w>
+    <w id="35.3" feats="PronType=Ind" xpos="ADV" head="35.4" upos="ADV" lemma="колись" deprel="advmod">колись</w>
+    <w lemma="згадувати" id="35.4" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="0" deprel="root">згадували</w>
+    <w deprel="det" lemma="той" feats="Case=Acc|Gender=Fem|Number=Sing|PronType=Dem" xpos="DET" head="35.6" upos="DET" id="35.5">ту</w>
+    <w deprel="obj" lemma="подія" head="35.4" upos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing" xpos="NOUN" id="35.6">подію</w>
+    <w deprel="case" id="35.7" xpos="ADP" feats="Case=Ins" head="35.9" upos="ADP" lemma="із">із</w>
+    <w deprel="amod" lemma="сумний" feats="Case=Ins|Gender=Fem|Number=Sing" xpos="ADJ" head="35.9" upos="ADJ" id="35.8">сумною</w>
+    <w misc="SpaceAfter=No" deprel="nmod" head="35.6" upos="NOUN" xpos="NOUN" feats="Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing" id="35.9" lemma="посмішка">посмішкою</w>
+    <w lemma="," id="35.10" upos="PUNCT" head="35.14" xpos="PUNCT" deprel="punct">,</w>
+    <w deprel="mark" upos="SCONJ" head="35.14" xpos="SCONJ" id="35.11" lemma="як">як</w>
+    <w deprel="obj" lemma="щось" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind" xpos="PRON" head="35.14" upos="PRON" id="35.12">щось</w>
+    <w deprel="advmod" lemma="давно" id="35.13" upos="ADV" head="35.14" feats="Degree=Pos" xpos="ADV">давно</w>
+    <w id="35.14" head="35.6" upos="ADJ" xpos="ADJ" feats="Case=Nom|Degree=Pos|Gender=Neut|Number=Sing" lemma="минулий" misc="SpaceAfter=No" deprel="amod">минуле</w>
+    <w deprel="punct" id="35.15" xpos="PUNCT" head="35.18" upos="PUNCT" lemma=",">,</w>
+    <w deprel="cc" lemma="а" id="35.16" upos="CCONJ" head="35.18" xpos="CCONJ">а</w>
+    <w id="35.17" xpos="ADV" feats="PronType=Dem" head="35.18" upos="ADV" lemma="потім" deprel="advmod">потім</w>
+    <w lemma="усвідомлювати" id="35.18" upos="VERB" head="35.14" feats="Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" deprel="conj" misc="SpaceAfter=No">усвідомлювали</w>
+    <w deprel="punct" upos="PUNCT" head="35.26" xpos="PUNCT" id="35.19" lemma=",">,</w>
+    <w deprel="mark" lemma="що" head="35.26" upos="SCONJ" xpos="SCONJ" id="35.20">що</w>
+    <w deprel="amod" lemma="майбутнвати" head="35.22" upos="ADJ" xpos="ADJ" feats="Case=Acc|Gender=Neut|Number=Sing" id="35.21">майбутнє</w>
+    <w deprel="obj" lemma="все" id="35.22" upos="PRON" head="35.26" feats="Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot" xpos="PRON">все</w>
+    <w lemma="одно" id="35.23" upos="DET" head="35.24" feats="Case=Acc|Gender=Neut|Number=Sing|PronType=Dem" xpos="DET" deprel="det">одно</w>
+    <w lemma="настати" upos="NOUN" head="35.22" feats="Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing" xpos="NOUN" id="35.24" deprel="nsubj" misc="SpaceAfter=No">настане</w>
+    <w deprel="punct" lemma="," id="35.25" upos="PUNCT" head="35.26" xpos="PUNCT">,</w>
+    <w lemma="незважаючи" feats="Aspect=Imp|Tense=Pres|VerbForm=Conv" xpos="VERB" head="35.18" upos="VERB" id="35.26" deprel="advcl">незважаючи</w>
+    <w id="35.27" xpos="ADP" feats="Case=Acc" head="35.28" upos="ADP" lemma="на" deprel="case">на</w>
+    <w misc="SpaceAfter=No" deprel="obl" feats="Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur" xpos="NOUN" head="35.26" upos="NOUN" id="35.28" lemma="обставина">обставини</w>
+    <w lemma="?" upos="PUNCT" head="35.26" xpos="PUNCT" id="35.29" deprel="punct" misc="SpaceAfter=No">?</w>
+  </s>
+  <s id="36">
+    <w deprel="root" misc="SpaceAfter=No" lemma="вітати" id="36.1" head="0" upos="VERB" xpos="VERB" feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin">Вітаю</w>
+    <w misc="SpaceAfter=No" deprel="punct" xpos="PUNCT" head="36.1" upos="PUNCT" id="36.2" lemma=".">.</w>
+  </s>
+  <s id="37">
+    <w deprel="nsubj" lemma="ви" id="37.1" upos="PRON" head="37.2" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON">Ви</w>
+    <w feats="Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin" xpos="VERB" upos="VERB" head="0" id="37.2" lemma="пройти" deprel="root">пройшли</w>
+    <w lemma="тест" id="37.3" upos="NOUN" head="37.2" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" deprel="obj" misc="SpaceAfter=No">тест</w>
+    <w misc="SpaceAfter=No" deprel="punct" id="37.4" upos="PUNCT" head="37.2" xpos="PUNCT" lemma=".">.</w>
+  </s>
+  <s id="38">
+    <w upos="PRON" head="38.3" feats="Animacy=Anim|Case=Nom|Number=Plur|Person=2|PronType=Prs" xpos="PRON" id="38.1" lemma="ви" deprel="nsubj">Ви</w>
+    <w deprel="det" id="38.2" feats="Case=Nom|Number=Plur|PronType=Tot" xpos="DET" head="38.3" upos="DET" lemma="весь">всі</w>
+    <w upos="NOUN" head="0" feats="Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur" xpos="NOUN" id="38.3" lemma="людина" misc="SpaceAfter=No" deprel="root">люди</w>
+    <w upos="PUNCT" head="38.3" xpos="PUNCT" id="38.4" lemma="." misc="SpaceAfter=No" deprel="punct">.</w>
+  </s>
+  <s id="39">
+    <w deprel="punct" misc="SpaceAfter=No" lemma="(" id="39.1" head="39.2" upos="PUNCT" xpos="PUNCT">(</w>
+    <w lemma="оплески" id="39.2" upos="NOUN" head="0" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" xpos="NOUN" deprel="root" misc="SpaceAfter=No">Оплески</w>
+    <w deprel="punct" misc="SpaceAfter=No" lemma=")" xpos="PUNCT" head="39.2" upos="PUNCT" id="39.3">)</w>
+  </s>
+</text>

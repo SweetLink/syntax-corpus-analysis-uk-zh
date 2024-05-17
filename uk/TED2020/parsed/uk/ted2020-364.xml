@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<text>
+  <s id="1">
+    <w xpos="VERB" feats="Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin" head="0" id="1.1" deprel="root" upos="VERB" lemma="почати">Почнімо</w>
+    <w deprel="case" lemma="з" upos="ADP" head="1.3" id="1.2" feats="Case=Gen" xpos="ADP">з</w>
+    <w deprel="obl" upos="PRON" lemma="це" xpos="PRON" head="1.1" misc="SpaceAfter=No" id="1.3" feats="Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem">цього</w>
+    <w xpos="PUNCT" id="1.4" misc="SpaceAfter=No" head="1.1" upos="PUNCT" lemma="." deprel="punct">.</w>
+  </s>
+  <s id="2">
+    <w misc="SpaceAfter=No" head="0" id="2.1" feats="Degree=Pos" xpos="ADV" deprel="root" lemma="добре" upos="ADV">Добре</w>
+    <w id="2.2" head="2.3" xpos="PUNCT" lemma="," upos="PUNCT" deprel="punct">,</w>
+    <w deprel="csubj" lemma="почекати" upos="VERB" misc="SpaceAfter=No" id="2.3" head="2.1" feats="Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin" xpos="VERB">почекайте</w>
+    <w lemma="." upos="PUNCT" deprel="punct" misc="SpaceAfter=No" head="2.1" id="2.4" xpos="PUNCT">.</w>
+  </s>
+  <s id="3">
+    <w lemma="(" upos="PUNCT" deprel="punct" misc="SpaceAfter=No" id="3.1" head="3.2" xpos="PUNCT">(</w>
+    <w lemma="Дзижчання" upos="NOUN" deprel="root" misc="SpaceAfter=No" id="3.2" head="0" feats="Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing" xpos="NOUN">Дзижчання</w>
+    <w xpos="PUNCT" id="3.3" head="3.2" deprel="punct" upos="PUNCT" lemma=")">)</w>
+    <w upos="PART" lemma="Гаразд" deprel="discourse" xpos="PART" head="3.2" misc="SpaceAfter=No" id="3.4">Гаразд</w>
+    <w xpos="PUNCT" head="3.2" misc="SpaceAfter=No" id="3.5" upos="PUNCT" lemma="." deprel="punct">.</w>
+  </s>
+  <s id="4">
+    <w xpos="PUNCT" id="4.1" misc="SpaceAfter=No" head="4.2" upos="PUNCT" lemma="(" deprel="punct">(</w>
+    <w deprel="root" upos="NOUN" lemma="сміх" xpos="NOUN" feats="Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing" id="4.2" misc="SpaceAfter=No" head="0">Сміх</w>
+    <w xpos="SYM" id="4.3" head="4.2" deprel="discourse" upos="SYM" lemma=")">)</w>
+    <sentBreak />
+    <w misc="SpaceAfter=No" head="4.3" id="4.1" xpos="INTJ" deprel="discourse" lemma="ой" upos="INTJ">Ой</w>
+    <w deprel="punct" lemma="," upos="PUNCT" head="4.1" id="4.2" xpos="PUNCT">,</w>
+    <w upos="VERB" lemma="пробачити" deprel="root" xpos="VERB" id="4.3" misc="SpaceAfter=No" head="0" feats="Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin">пробачте</w>
+    <w xpos="PUNCT" head="4.3" misc="SpaceAfter=No" id="4.4" deprel="punct" upos="PUNCT" lemma=".">.</w>
+  </s>
+  <s id="5">
+    <w upos="PUNCT" lemma="(" deprel="punct" xpos="PUNCT" head="5.2" misc="SpaceAfter=No" id="5.1">(</w>
+    <w deprel="root" lemma="музика" upos="NOUN" feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing" misc="SpaceAfter=No" id="5.2" head="0" xpos="NOUN">Музика</w>
+    <w deprel="punct" upos="PUNCT" lemma=")" xpos="PUNCT" id="5.3" head="5.2">)</w>
+    <w xpos="PUNCT" id="5.4" misc="SpaceAfter=No" head="5.5" upos="PUNCT" lemma="(" deprel="punct">(</w>
+    <w xpos="PROPN" feats="Animacy=Anim|Case=Gen|Gender=Fem|NameType=Sur|Number=Sing|Uninflect=Yes" head="5.2" misc="SpaceAfter=No" id="5.5" upos="PROPN" lemma="Бітбоксинґ" deprel="appos">Бітбоксинґ</w>
+    <w xpos="PUNCT" id="5.6" head="5.5" deprel="punct" upos="PUNCT" lemma=")">)</w>
+    <sentBreak />
+    <w feats="Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin" misc="SpaceAfter=No" id="5.1" head="0" xpos="VERB" lemma="дякувати" upos="VERB" deprel="root">Дякую</w>
+    <w misc="SpaceAfter=No" id="5.2" head="5.1" xpos="PUNCT" lemma="." upos="PUNCT" deprel="punct">.</w>
+  </s>
+  <s id="6">
+    <w misc="SpaceAfter=No" id="6.1" head="6.2" xpos="PUNCT" deprel="punct" lemma="(" upos="PUNCT">(</w>
+    <w feats="Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur" misc="SpaceAfter=No" head="0" id="6.2" xpos="NOUN" lemma="оплески" upos="NOUN" deprel="root">Оплески</w>
+    <w deprel="punct" lemma=")" upos="PUNCT" misc="SpaceAfter=No" id="6.3" head="6.2" xpos="PUNCT">)</w>
+  </s>
+</text>
