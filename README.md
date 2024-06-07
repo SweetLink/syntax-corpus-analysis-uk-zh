@@ -10,7 +10,7 @@
   <source media="(prefers-color-scheme: light)" srcset="/Users/anastasiiaburda/Desktop/syntax-corpus-analysis-uk-zh/renknu_logo.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="renknu_logo.png">
 </picture>
-____
+
 ## Description
 
 > “**The technical problem**: How accurately can the symbols of communication be transmitted?
