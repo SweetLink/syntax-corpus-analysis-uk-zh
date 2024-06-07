@@ -15,18 +15,16 @@
 <p align="left">
 A curious learner and result-oriented individual interested in the role of a software developer, where I can expand and apply the skills and knowledge acquired through continuous personal development to design and create quality software solutions that contribute towards achieving the company’s vision and goals.
 </p>
-
-<img src="renknu_logo.png" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" />
-
-<br/>
-<br/>
-
-<picture>
-
+<picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="renknu_logo.png">
   <source media="(prefers-color-scheme: light)" srcset="renknu_logo.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="renknu_logo.png">
 </picture>
+
+<!-- <img src="renknu_logo.png" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" /> -->
+
+<br/>
+<br/>
 
 ## Description
 
