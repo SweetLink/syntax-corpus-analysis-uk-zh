@@ -14,8 +14,11 @@ ____
 ## Description
 
 > “**The technical problem**: How accurately can the symbols of communication be transmitted?
+>
 > **The semantic problem**: How precisely do the transmitted symbols convey the desired meaning?
+>
 > **The effectiveness problem**: How effectively does the received meaning affect conduct in the desired way?”
+>
 > _— Warren Weaver, The Mathematical Theory of Communication_
 
 ### Practical Part Of Bachelor's Degree Diploma
