@@ -44,7 +44,7 @@ plt.xlabel('Сегменти корпусу (по 10 текстів)')
 x_labels = ['1', '2', '3', '4', '5','6','7','8','9','10','11','12','13','14','15']
 plt.xticks(labels, x_labels)
 plt.ylabel('Нормалізовані значення співвідношення NP:VP')
-plt.title('Порівняння зміни значення співвідношення NP:VP', fontsize=14, fontweight='bold', pad=20)
+plt.title('Динаміка зміни співвідношення NP:VP в паралельному корпусі', fontsize=14, fontweight='bold', pad=20)
 plt.legend(loc='upper left')
 
 
