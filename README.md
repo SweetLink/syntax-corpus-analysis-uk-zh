@@ -1,6 +1,21 @@
-<<<<<<< HEAD
-
 # Syntax Corpus Analysis for Chinese-Ukrainian Machine Translation <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" alt="Computer" width="40">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ysherqawi">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Yasser's LinkdeIn" width="25"/>
+  </a>
+  <a href="mailto:ysherqawi@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Yasser's Email" width="25" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<img src="renknu_logo.png" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" />
+
+<br/>
+<br/>
 
 ## Practical Part Of Bachelor's Degree Diploma
 
