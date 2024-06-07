@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-# Syntax Corpus Analysis for Chinese-Ukrainian Machine Translation
+# Syntax Corpus Analysis for Chinese-Ukrainian Machine Translation <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fresearch--85849936628131126%2F&psig=AOvVaw2WWyo4dXO0HU9TLn5pFj1J&ust=1717868761564000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCNkv-FyoYDFQAAAAAdAAAAABAJ" alt="Waving Hand" width="40">
 
 ## Practical Part Of Bachelor's Degree Diploma
 
@@ -19,7 +19,7 @@
 >
 > **The effectiveness problem**: How effectively does the received meaning affect conduct in the desired way?”
 >
-> _— Warren Weaver, The Mathematical Theory of Communication_
+> _— **Warren Weaver**, The Mathematical Theory of Communication_
 
 ### Practical Part Of Bachelor's Degree Diploma
 
