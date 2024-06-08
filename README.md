@@ -34,19 +34,19 @@
 <img src="https://cdn.pixabay.com/animation/2022/10/11/03/16/03-16-39-160_512.gif" width="40" height="40">
 </div>
 
-<div align="right">
-[embed]http://example.com/file.pdf[/embed]
-</div>
+<img src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif" align="right" width="30%">
+
+<div align="lest">
 
 ### <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" width="40" height="40"> Key features of the project:
 
 - 📖 **NLP** with **Python** in terms of **Neural Machine Translation**;
-- 🤹🏽 [Corpus analysis](https://github.com/SweetLink/syntax-corpus-analysis-uk-zh/tree/main/analysis-functions) of the syntax features of **🇨🇳Chinese** and **🇺🇦Ukrainian** languages;
-- 💬 I am fast to respond and looking for people willing to grow their profiles by contributing regularly;
-- 👯 I’m looking to collaborate with new people and ideas.
-- 💬 Ask me about anything, I love to answer and help people.
-- 📫 How to reach me: ([@younglord_d9](https://www.instagram.com/younglord_d9/)).
-- ⚡ Fun fact: I'm a state level player of basketball and also ranked 1 in Basketball cluster Match and also made digital art for few indian celebs like India's first women F1 Racing team racer ([@manisharamkelkar](https://www.instagram.com/manisharamkelkar/)) at one of the competition on ([@Devinetart](https://www.deviantart.com/)).
+- 📊 [Corpus analysis](https://github.com/SweetLink/syntax-corpus-analysis-uk-zh/tree/main/analysis-functions) of the syntax features of **🇨🇳Chinese** and **🇺🇦Ukrainian** languages;
+- 🤔 [BLEU-score](https://github.com/SweetLink/syntax-corpus-analysis-uk-zh/tree/main/bleu_test) evaluation;
+- 🎉 New Chinese-Ukrainian translation approaches;
+- 🛠️ **NMP system** improvement strategies.
+- ⚡ Check out the **full PDFs** for the Thesis work in [Ukrainian]() and [English]().
+</div>
 
 <!-- <img src="renknu_logo.png" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" /> -->
 
@@ -78,3 +78,18 @@ This project is aimed at linguistics study of syntax
 <br/>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NkdW9qY2x6MDFwYzFqc3Fic29uZnljZDZhMWtjYmw4OWc1OGZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.webp" width="40" height="40">Skills & Qualifications
+
+<!-- Gifs -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxa2ZnZjZvODVwZXVsOW1qZmNxZ2kwNTRiZTFqeW0xZXg4emx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.webp"  width="30%">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRhcnFibm05ZGg0OG1rZm9jamlkanBxd3BqaGZja3ExemY5ZGs5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.webp"  width="30%">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1dGl3cjAzNGR1aWNpam9sam9rNDNkZDZ0a2h3Mnk5N2I1YXYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/6xpBQeimnN5QKT29oQ/giphy.webp"  width="30%">
+
+<img src="https://media.licdn.com/dms/image/D4E12AQF82qwF_eyGzA/article-cover_image-shrink_600_2000/0/1685537880182?e=2147483647&v=beta&t=b6qM6VZvlEJO3GTrC5sLzSZTfbXbzNhpXVrH8Pe4oEE"  width="30%">
+
+<img src=""  width="30%">
+
+<img src=""  width="30%">
+
+<img src=""  width="30%">
