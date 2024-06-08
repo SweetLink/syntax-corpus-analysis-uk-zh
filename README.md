@@ -34,7 +34,7 @@
 <img src="https://cdn.pixabay.com/animation/2022/10/11/03/16/03-16-39-160_512.gif" width="40" height="40">
 </div>
 
-<img src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif" align="right" width="30%" margin-top="-40px">
+<img src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif" align="right" width="465" height="365" margin-top="-40px">
 
 <div align="lest">
 
