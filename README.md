@@ -59,15 +59,19 @@
     <td><b style="font-size:20px">
     <p>
 Anastasiia Burda <a href="https://orcid.org/0009-0005-8269-3553">
-    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/orcid_logo_icon_145004.png" alt="Nastya's ORCID" width="25"/>
+    <img src="Orcid-logo.png" alt="Nastya's ORCID" width="25"/>
+    <!-- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://static-00.iconduck.com/assets.00/orcid-icon-2048x2048-q87cnnge.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.icon-icons.com/icons2/2389/PNG/512/orcid_logo_icon_145004.png">
+    </picture> -->
 </a> <a href="https://www.linkedin.com/in/anastasiia-burda-799469283/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Nastya's LinkdeIn" width="25"/>
+    <img src="LinkedIn-logo.png" alt="Nastya's LinkdeIn" width="25"/>
 </a>
 </p>
     </b></td>
     <td><b style="font-size:20px"><p>
 Oleksandr Kozoriz <a href="https://orcid.org/0000-0002-4502-583X">
-    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/orcid_logo_icon_145004.png" alt="Nastya's ORCID" width="25"/>
+    <img src="Orcid-logo.png" alt="Nastya's ORCID" width="25"/>
 <!-- </a> <a href="https://www.linkedin.com/in/anastasiia-burda-799469283/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Nastya's LinkdeIn" width="25"/>
 </a> -->
@@ -102,11 +106,11 @@ Oleksandr Kozoriz <a href="https://orcid.org/0000-0002-4502-583X">
 
 </p>
 
-<p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1dGl3cjAzNGR1aWNpam9sam9rNDNkZDZ0a2h3Mnk5N2I1YXYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/6xpBQeimnN5QKT29oQ/giphy.webp" align="right" width="30%">
+
+<p align="left" >
 The idea of the way Machine Translation should process the Natural Languages not only making the statement clear, but also making the right impact on the receiver, date back to the arise of MT itself:
 </p>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1dGl3cjAzNGR1aWNpam9sam9rNDNkZDZ0a2h3Mnk5N2I1YXYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/6xpBQeimnN5QKT29oQ/giphy.webp" align="right" width="30%">
 
 <br/>
 
