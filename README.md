@@ -58,6 +58,8 @@
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR1cmFxcTQ1OWZqaTFsaDAybXQ1NjA0eTU4eHczZHh6eHA1NHBhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIVCkv3bcsBwFyESSC/giphy.webp" width="40" height="40"> Description
 
+<br/>
+
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2a215ang3NmFwdXVrZHlhemJxeHhpaWx3bDBycDJlcTEwemRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.webp" width="40" height="40"> Research background and inspiration
 
 <p align="left" width="50%">
@@ -74,7 +76,9 @@ The idea of the way Machine Translation should process the Natural Languages not
 
 <br/>
 
-<!-- ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NkdW9qY2x6MDFwYzFqc3Fic29uZnljZDZhMWtjYmw4OWc1OGZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.webp" width="40" height="40">Skills & Qualifications -->
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NkdW9qY2x6MDFwYzFqc3Fic29uZnljZDZhMWtjYmw4OWc1OGZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.webp" width="40" height="40">Skills & Qualifications
+
+<br/>
 
 <!-- Gifs -->
 <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxa2ZnZjZvODVwZXVsOW1qZmNxZ2kwNTRiZTFqeW0xZXg4emx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.webp"  width="30%"> -->
