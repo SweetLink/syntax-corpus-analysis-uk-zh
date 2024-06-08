@@ -74,17 +74,17 @@ The idea of the way Machine Translation should process the Natural Languages not
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NkdW9qY2x6MDFwYzFqc3Fic29uZnljZDZhMWtjYmw4OWc1OGZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.webp" width="40" height="40">Skills & Qualifications
+<!-- ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NkdW9qY2x6MDFwYzFqc3Fic29uZnljZDZhMWtjYmw4OWc1OGZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.webp" width="40" height="40">Skills & Qualifications -->
 
 <!-- Gifs -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxa2ZnZjZvODVwZXVsOW1qZmNxZ2kwNTRiZTFqeW0xZXg4emx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.webp"  width="30%">
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxa2ZnZjZvODVwZXVsOW1qZmNxZ2kwNTRiZTFqeW0xZXg4emx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.webp"  width="30%"> -->
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRhcnFibm05ZGg0OG1rZm9jamlkanBxd3BqaGZja3ExemY5ZGs5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.webp"  width="30%">
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRhcnFibm05ZGg0OG1rZm9jamlkanBxd3BqaGZja3ExemY5ZGs5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.webp"  width="30%"> -->
 
-<img src="https://media.licdn.com/dms/image/D4E12AQF82qwF_eyGzA/article-cover_image-shrink_600_2000/0/1685537880182?e=2147483647&v=beta&t=b6qM6VZvlEJO3GTrC5sLzSZTfbXbzNhpXVrH8Pe4oEE"  width="30%">
+<!-- <img src="https://media.licdn.com/dms/image/D4E12AQF82qwF_eyGzA/article-cover_image-shrink_600_2000/0/1685537880182?e=2147483647&v=beta&t=b6qM6VZvlEJO3GTrC5sLzSZTfbXbzNhpXVrH8Pe4oEE"  width="30%"> -->
 
-<img src=""  width="30%">
+<!-- <img src=""  width="30%"> -->
 
-<img src=""  width="30%">
+<!-- <img src=""  width="30%"> -->
 
-<img src=""  width="30%">
+<!-- <img src=""  width="30%"> -->
