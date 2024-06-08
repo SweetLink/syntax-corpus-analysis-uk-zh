@@ -51,7 +51,6 @@
 <!-- <img src="renknu_logo.png" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" /> -->
 
 <br/>
-<br/>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjB1ajhicjJncmhlZ3o2cXkxbWp6ejV4ZW0waDVlZzY4dXF3ZW5oYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.webp" width="40" height="40"> Contributors
 
@@ -59,21 +58,19 @@
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR1cmFxcTQ1OWZqaTFsaDAybXQ1NjA0eTU4eHczZHh6eHA1NHBhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIVCkv3bcsBwFyESSC/giphy.webp" width="40" height="40"> Description
 
-This project is aimed at linguistics study of syntax
-
-<!-- <div width="100">
-
-> “**The technical problem**: How accurately can the symbols of communication be transmitted?
->
-> **The semantic problem**: How precisely do the transmitted symbols convey the desired meaning?
->
-> **The effectiveness problem**: How effectively does the received meaning affect conduct in the desired way?”
->
-> _— **Warren Weaver**, The Mathematical Theory of Communication_
-
-</div> -->
-
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2a215ang3NmFwdXVrZHlhemJxeHhpaWx3bDBycDJlcTEwemRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.webp" width="40" height="40"> Research background and inspiration
+
+<p align="left" width="50%">
+
+> “**The technical problem**: How accurately can the symbols of communication be transmitted?<br/> **The semantic problem**: How precisely do the transmitted symbols convey the desired meaning?<br/> **The effectiveness problem**: How effectively does the received meaning affect conduct in the desired way?” <br/> _— **Warren Weaver**, The Mathematical Theory of Communication_
+
+</p>
+
+<p>
+The idea of the way Machine Translation should process the Natural Languages not only making the statement clear, but also making the right impact on the receiver, date back to the arise of MT itself:
+</p>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1dGl3cjAzNGR1aWNpam9sam9rNDNkZDZ0a2h3Mnk5N2I1YXYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/6xpBQeimnN5QKT29oQ/giphy.webp" align="right" width="30%">
 
 <br/>
 
@@ -83,8 +80,6 @@ This project is aimed at linguistics study of syntax
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxa2ZnZjZvODVwZXVsOW1qZmNxZ2kwNTRiZTFqeW0xZXg4emx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.webp"  width="30%">
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRhcnFibm05ZGg0OG1rZm9jamlkanBxd3BqaGZja3ExemY5ZGs5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.webp"  width="30%">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1dGl3cjAzNGR1aWNpam9sam9rNDNkZDZ0a2h3Mnk5N2I1YXYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/6xpBQeimnN5QKT29oQ/giphy.webp"  width="30%">
 
 <img src="https://media.licdn.com/dms/image/D4E12AQF82qwF_eyGzA/article-cover_image-shrink_600_2000/0/1685537880182?e=2147483647&v=beta&t=b6qM6VZvlEJO3GTrC5sLzSZTfbXbzNhpXVrH8Pe4oEE"  width="30%">
 
