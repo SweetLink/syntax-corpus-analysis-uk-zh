@@ -54,6 +54,40 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjB1ajhicjJncmhlZ3o2cXkxbWp6ejV4ZW0waDVlZzY4dXF3ZW5oYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.webp" width="40" height="40"> Contributors
 
+<table border="0" width="100%">
+ <tr>
+    <td><b style="font-size:20px">
+    <p>
+Anastasiia Burda <a href="https://orcid.org/0009-0005-8269-3553">
+    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/orcid_logo_icon_145004.png" alt="Nastya's ORCID" width="25"/>
+</a> <a href="https://www.linkedin.com/in/anastasiia-burda-799469283/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Nastya's LinkdeIn" width="25"/>
+</a>
+</p>
+    </b></td>
+    <td><b style="font-size:20px"><p>
+Oleksandr Kozoriz <a href="https://orcid.org/0000-0002-4502-583X">
+    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/orcid_logo_icon_145004.png" alt="Nastya's ORCID" width="25"/>
+<!-- </a> <a href="https://www.linkedin.com/in/anastasiia-burda-799469283/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Nastya's LinkdeIn" width="25"/>
+</a> -->
+</p>
+</b></td>
+ </tr>
+
+ <tr>
+    <td>
+    <div>
+    - Автор дослідження, студентка; 
+    - Київський національний університет імені Тараса Шевченка.
+    </div> </td>
+    <td> 
+    - 📋 Кандидат філологічних наук, асистент кафедри мов і літератур Далекого Сходу та Південно-Східної Азії;
+    – Київський національний університет імені Тараса Шевченка.
+    </td>
+ </tr>
+</table>
+
 <br/>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR1cmFxcTQ1OWZqaTFsaDAybXQ1NjA0eTU4eHczZHh6eHA1NHBhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIVCkv3bcsBwFyESSC/giphy.webp" width="40" height="40"> Description
