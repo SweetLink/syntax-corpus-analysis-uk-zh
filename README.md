@@ -23,7 +23,7 @@
 
 <div align="center">
 
-#### This project is the research work for Thesis work in Bachelor's Degree at Kyiv National University.
+<p>This project is the research work for Thesis work in Bachelor's Degree at Kyiv National University.</p>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <table border="0" width="100%">
  <tr>
-    <td><b style="font-size:20px">
+    <td  align='center'><b style="font-size:20px">
     <p>
 Anastasiia Burda <a href="https://orcid.org/0009-0005-8269-3553">
     <img src="Orcid-logo.png" alt="Nastya's ORCID" width="25"/>
@@ -69,7 +69,7 @@ Anastasiia Burda <a href="https://orcid.org/0009-0005-8269-3553">
 </a>
 </p>
     </b></td>
-    <td><b style="font-size:20px"><p>
+    <td  align='center'><b style="font-size:20px"><p>
 Oleksandr Kozoriz <a href="https://orcid.org/0000-0002-4502-583X">
     <img src="Orcid-logo.png" alt="Nastya's ORCID" width="25"/>
 <!-- </a> <a href="https://www.linkedin.com/in/anastasiia-burda-799469283/">
@@ -82,12 +82,12 @@ Oleksandr Kozoriz <a href="https://orcid.org/0000-0002-4502-583X">
  <tr>
     <td>
     <div>
-    - Автор дослідження, студентка; 
-    - Київський національний університет імені Тараса Шевченка.
+    - ✍️ Автор дослідження, студентка; <br/>
+    - 🎓 Київський національний університет імені Тараса Шевченка.<br/>
     </div> </td>
     <td> 
-    - 📋 Кандидат філологічних наук, асистент кафедри мов і літератур Далекого Сходу та Південно-Східної Азії;
-    – Київський національний університет імені Тараса Шевченка.
+    - 📋 Кандидат філологічних наук, асистент кафедри мов і літератур Далекого Сходу та Південно-Східної Азії;<br/>
+    – 🎓 Київський національний університет імені Тараса Шевченка.<br/>
     </td>
  </tr>
 </table>
@@ -100,28 +100,47 @@ Oleksandr Kozoriz <a href="https://orcid.org/0000-0002-4502-583X">
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2a215ang3NmFwdXVrZHlhemJxeHhpaWx3bDBycDJlcTEwemRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.webp" width="40" height="40"> Research background and inspiration
 
-<p align="left" width="50%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1dGl3cjAzNGR1aWNpam9sam9rNDNkZDZ0a2h3Mnk5N2I1YXYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/6xpBQeimnN5QKT29oQ/giphy.webp" align="left" width="25%">
 
-> “**The technical problem**: How accurately can the symbols of communication be transmitted?<br/> **The semantic problem**: How precisely do the transmitted symbols convey the desired meaning?<br/> **The effectiveness problem**: How effectively does the received meaning affect conduct in the desired way?” <br/> _— **Warren Weaver**, The Mathematical Theory of Communication_
+<br/>
+
+<p align="right" width="50%">
+
+“💡 **The technical problem**: How accurately can the symbols of communication be transmitted?<br/> 💡 **The semantic problem**: How precisely do the transmitted symbols convey the desired meaning?<br/> 💡 **The effectiveness problem**: How effectively does the received meaning affect conduct in the desired way?” <br/> _- **[Warren Weaver]()**, The Mathematical Theory of Communication_
 
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1dGl3cjAzNGR1aWNpam9sam9rNDNkZDZ0a2h3Mnk5N2I1YXYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/6xpBQeimnN5QKT29oQ/giphy.webp" align="right" width="30%">
+<br/>
 
 <p align="left" >
 The idea of the way Machine Translation should process the Natural Languages not only making the statement clear, but also making the right impact on the receiver, date back to the arise of MT itself:
 </p>
 
 <br/>
+<br/>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NkdW9qY2x6MDFwYzFqc3Fic29uZnljZDZhMWtjYmw4OWc1OGZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.webp" width="40" height="40">Skills & Qualifications
+
+<img align="right" margin='30px' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRhcnFibm05ZGg0OG1rZm9jamlkanBxd3BqaGZja3ExemY5ZGs5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.webp"  width="30%">
+
+<div align="left" >
+
+- 📚 Gathering and cleaning **large amounts of text data**;
+- 👩🏼‍💻 Ensuring it's suitable for training **NMT systems**;
+- 🔖 Choosing appropriate **Python** tools for **corpus processing** and **syntax analysis**;
+- 🔍 Deep analysis of **natural languages structure**;
+- 🧮 Predicting the impact of certain features on NMT;
+- 🔬 In-hand experience of NMT system working flow and the **evaluation** of its product;
+- 🛠️ Integration of theoretical linguistics knowledge into the **back-end algorithms of NMT systems** through Python programs;
+- ⚡ Monitoring and improving NLP models and NMT systems;
+- 🖋️ Adapting the algorithms to evolving language patterns and user needs;
+- 🐉 Bringing the **cultural aspect** of the process of speech delivery and acceptance as the key driver for the improvement of current NMT systems.
+</div>
 
 <br/>
 
 <!-- Gifs -->
 <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxa2ZnZjZvODVwZXVsOW1qZmNxZ2kwNTRiZTFqeW0xZXg4emx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.webp"  width="30%"> -->
-
-<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRhcnFibm05ZGg0OG1rZm9jamlkanBxd3BqaGZja3ExemY5ZGs5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1tDAzdBoIl5GwAsgpd/giphy.webp"  width="30%"> -->
 
 <!-- <img src="https://media.licdn.com/dms/image/D4E12AQF82qwF_eyGzA/article-cover_image-shrink_600_2000/0/1685537880182?e=2147483647&v=beta&t=b6qM6VZvlEJO3GTrC5sLzSZTfbXbzNhpXVrH8Pe4oEE"  width="30%"> -->
 
