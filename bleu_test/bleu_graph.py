@@ -22,14 +22,14 @@ plt.plot(x, y, color='#2F4F4F', linestyle=':', linewidth=2,
 
 
 # Іменування осей та показників осі х
-plt.xlabel('Хронологічні сегменти тексту перекладу (по 5 речень)',
+plt.xlabel('Chronological segments of the translated text (5 sentences each)',
            fontweight='semibold', color='#2F4F4F')
 x_labels = ['1–5', '6-10', '11-15', '16-20', '21-25', '26-30', '31-35']
 plt.xticks(x, x_labels)
-plt.ylabel('Бал BLEU', fontweight='semibold', color='#2F4F4F')
+plt.ylabel('BLEU-score', fontweight='semibold', color='#2F4F4F')
 
 # Назва графіка
-plt.title('Розподілення якості НМП протягом циклу роботи DeepL (за метрикою BLEU)',
+plt.title('Distribution of NMP quality during DeepL operation cycle (by BLEU metric)',
           fontsize=14, fontweight='bold', pad=20)
 
 # Відображення графіка

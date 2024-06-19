@@ -7,6 +7,8 @@
   </a>
 </div> -->
 
+<!-- HEADER START -->
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="renknu_logo.png">
@@ -23,7 +25,7 @@
 
 <div align="center">
 
-<p>This project is the research work for Thesis work in Bachelor's Degree at Kyiv National University.</p>
+<p>This project is the research work for Thesis work in Bachelor's Degree at Taras Shevchenko  National University of Kyiv.</p>
 
 </div>
 
@@ -33,6 +35,10 @@
 
 <img src="https://cdn.pixabay.com/animation/2022/10/11/03/16/03-16-39-160_512.gif" width="40" height="40">
 </div>
+
+<!-- HEADER END -->
+
+<!-- BODY START -->
 
 <img src="https://bedatasolutions.com/wp-content/uploads/2023/01/analytics-1.gif" align="right" width="465" height="365" margin-top="-40px">
 
@@ -51,6 +57,8 @@
 <!-- <img src="renknu_logo.png" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" /> -->
 
 <br/>
+
+<!-- CONTRIBUTORS START -->
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjB1ajhicjJncmhlZ3o2cXkxbWp6ejV4ZW0waDVlZzY4dXF3ZW5oYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.webp" width="40" height="40"> Contributors
 
@@ -82,21 +90,56 @@ Oleksandr Kozoriz <a href="https://orcid.org/0000-0002-4502-583X">
  <tr>
     <td>
     <div>
-    - ✍️ Автор дослідження, студентка; <br/>
-    - 🎓 Київський національний університет імені Тараса Шевченка.<br/>
+    - ✍️ The author of the study, a student; <br/>
+    - 🎓 Taras Shevchenko  National University of Kyiv;<br/>
+    - 📍 Kyiv, Ukraine.
     </div> </td>
     <td> 
-    - 📋 Кандидат філологічних наук, асистент кафедри мов і літератур Далекого Сходу та Південно-Східної Азії;<br/>
-    – 🎓 Київський національний університет імені Тараса Шевченка.<br/>
+    - 📋 Ph. D. in Philology, Teaching assistant of Department of Languages and Literatures of the Far East and Southeast Asia
+    Taras Shevchenko National University of Kyiv;<br/>
+    – 🎓 Taras Shevchenko  National University of Kyiv;<br/>
+    - 📍 Kyiv, Ukraine.
     </td>
  </tr>
 </table>
 
 <br/>
 
+<!-- CONTRIBUTORS END -->
+
+<!-- DESCRIPTION START -->
+
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXR1cmFxcTQ1OWZqaTFsaDAybXQ1NjA0eTU4eHczZHh6eHA1NHBhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIVCkv3bcsBwFyESSC/giphy.webp" width="40" height="40"> Description
 
+<div>
+  <p>
+  
+  👩🏼‍💻 Repository contains the implementation of the practical research for Bachelor's Thesis work on the topic **"Corpus-based research on syntactic transformations in Chinese-Ukrainian translation of publicity texts"**.
+
+🧱 The whole work consists of few **blocks of data**:
+
+- [Various functions for syntax analysis]();
+- [BLEU-score evaluation functions]();
+- [The parallel Chinese-Ukrainian corpus of publicity texts]().
+
+📈 For more vivid representation of the results and particular tendencies discovered in the structure of Chinese and Ukrainian languages, some **graphs** were generated:
+
+<div align='center'>
+
+<p float="center">
+  <img src="./bleu_test/Figure_BLEU.png" width="43.5%" />
+  <img src="./analysis-functions/np-vp-analysis/Figure_NPVP.png" width="45%" />
+</p>
+
+</div>
+
+</div>
+
 <br/>
+
+<!-- DESCRIPTION END -->
+
+<!-- RESEARCH BACKGROUND START-->
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs2a215ang3NmFwdXVrZHlhemJxeHhpaWx3bDBycDJlcTEwemRtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nKT4CZhmNUj9HdtBhe/giphy.webp" width="40" height="40"> Research background and inspiration
 
@@ -106,18 +149,35 @@ Oleksandr Kozoriz <a href="https://orcid.org/0000-0002-4502-583X">
 
 <p align="right" width="50%">
 
-“💡 **The technical problem**: How accurately can the symbols of communication be transmitted?<br/> 💡 **The semantic problem**: How precisely do the transmitted symbols convey the desired meaning?<br/> 💡 **The effectiveness problem**: How effectively does the received meaning affect conduct in the desired way?” <br/> _- **[Warren Weaver]()**, The Mathematical Theory of Communication_
+    “💡 The technical problem: How accurately can the symbols of communication be transmitted
+    💡 The semantic problem: How precisely do the transmitted symbols convey the desired meaning?
+    💡 The effectiveness problem: How effectively does the received meaning affect conduct in the desired way?”
+
+     - Warren Weaver, The Mathematical Theory of Communication
 
 </p>
 
 <br/>
 
 <p align="left" >
-The idea of the way Machine Translation should process the Natural Languages not only making the statement clear, but also making the right impact on the receiver, date back to the arise of MT itself:
+💡 The idea of the way Machine Translation should process the Natural Languages not only making the statement clear, but also making the right impact on the receiver, date back to the arise of MT itself.
+
+🏔️ The relevance of the study is due to **the growing demand for the involvement of MP systems**, currently, in particular, **neural machine translation (NMT)**, in various areas of human activity and the need to improve the efficiency of their work through the study of the linguistic aspect of translation. We consider **the syntactic structure of languages ​​as one of the levels that has a significant** impact on message formation. In the ordinary life of a person, the selection of an adequate sentence structure, the involvement of constructions in the flow of speech are based on aspects of a specific situation.
+
+🇨🇳🇺🇦 In the **Chinese-Ukrainian language pair**, as structurally significantly different languages, many questions arise during translation regarding appropriate syntactic transformations. That is, the principle of message formation by the medium is multifaceted, which necessitates the study of syntax in the context of translation, in particular, in terms of methods of improving NMP systems.
+
+🧪 **Background research work:**
+
+- [Future Perspectives Of Machine Translation: Efficiency Of The Modern Software And AI Tools]();
+- [The Role of Humans in the Process of Machine Translation of Chinese-Ukrainian Texts: Post-Processing from the Aspect of Syntax]();
+- [Methods Of Improving Machine Translation Systems In The Context Of Corpus Linguistics]().
 </p>
 
 <br/>
-<br/>
+
+<!-- RESEARCH BACKGROUND END-->
+
+<!-- SKILLS START -->
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NkdW9qY2x6MDFwYzFqc3Fic29uZnljZDZhMWtjYmw4OWc1OGZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jv9Iuw5Dw24rRBsRhM/giphy.webp" width="40" height="40">Skills & Qualifications
 
@@ -138,6 +198,10 @@ The idea of the way Machine Translation should process the Natural Languages not
 </div>
 
 <br/>
+
+<!-- SKILLS END -->
+
+<!-- BODY END -->
 
 <!-- Gifs -->
 <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxa2ZnZjZvODVwZXVsOW1qZmNxZ2kwNTRiZTFqeW0xZXg4emx5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.webp"  width="30%"> -->

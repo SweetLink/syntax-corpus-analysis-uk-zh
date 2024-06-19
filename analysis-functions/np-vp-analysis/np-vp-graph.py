@@ -32,12 +32,12 @@ plt.ylim(0.4,1.2)
 plt.xlim(0,16)
 
 # Побудова графіку нормалізованих значень в сегменті корпусу українською
-plt.plot(labels, uk_separate_normalized, marker='o', label='Співвіднощення NP:VP в корпусі українською (нормалізовані значення)', color='#8A2BE2', )
+plt.plot(labels, uk_separate_normalized, marker='o', label='Співвідношення NP:VP в корпусі українською (нормалізовані значення)', color='#8A2BE2', )
 
 #plt.plot(x, y, color='#2F4F4F', linestyle=':', linewidth = 2,  marker='o', markerfacecolor='#8A2BE2', markersize=7)
 
 # Побудова графіку нормалізованих значень в сегменті корпусу китайською
-plt.plot(labels, zh_separate_normalized, marker='o', label='Співвіднощення NP:VP в корпусі китайською (нормалізовані значення)', color='#FF8C00',)
+plt.plot(labels, zh_separate_normalized, marker='o', label='Співвідношення NP:VP в корпусі китайською (нормалізовані значення)', color='#FF8C00',)
 
 # Додавання заголовків і підписів осей
 plt.xlabel('Сегменти корпусу (по 10 текстів)')
